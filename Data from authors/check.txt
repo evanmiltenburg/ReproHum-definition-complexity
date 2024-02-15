@@ -1,0 +1,8 @@
+300 unique ids
+defaultdict(<class 'int'>,
+            {   'DEXPERT-JOURNAL': 50,
+                'DEXPERT-NEWS': 50,
+                'GEDI-JOURNAL': 50,
+                'GEDI-NEWS': 50,
+                'SVM-RERANK-JOURNAL': 50,
+                'SVM-RERANK-NEWS': 50})

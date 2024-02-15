@@ -1,0 +1,611 @@
+[[AdvancedFormat]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:7c943463f5d64771b8227da2669fb723]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Adrenal Gland Cancer </p>
+<p><b>Definition:</b> Your adrenal gland is a 2-inch-long gland behind your collarbone.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:2e2d6940a04c4c4d9befb38b16ff9d79]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Sexually Transmitted Diseases </p>
+<p><b>Definition:</b> Sexually transmitted diseases (STDs) are a group of diseases caused by bacteria.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:b076b86b361346e992af820fade1f745]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  enlarged parietal foramina </p>
+<p><b>Definition:</b> Espaol
+
+
+ 
+
+			
+ 		 	
+
+­		­	   
+  	 —Enlarged parietal foramina is an abnormally large parietal bone abnormality.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:cb7f6963e155477c99e3680dcbe51ef4]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  E. Coli Infections </p>
+<p><b>Definition:</b> E. coli is the body’soup-like, fecal or staphilococciinating bacterium.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:0201e274aae546eeba1d9fd8aa48018d]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  enlarged parietal foramina </p>
+<p><b>Definition:</b> onenital foramina are missing or enlarged openings in each parietal bone of the skull that is present from birth.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:3415168a56ba4577a73029b05029ac16]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  intensive and extensive properties|intensive property</p>
+<p><b>Definition:</b> A property that is used more than any other.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:caff0abec1bd409bbb359b25afa3e987]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Tsunamis</p>
+<p><b>Definition:</b> Summary : Tsunamis are waves that inundate shores in the ocean.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:14e361e2ccf9426ab0be3f6e49adf4c4]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Pudendal Neuralgia </p>
+<p><b>Definition:</b> Pudendal neuralgia is a syndrome that causes chronic, numbness or debilitating areas of one area innerval nerves.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:7fbb666c08f24739af87cad5056b2c5e]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Bayesian programming</p>
+<p><b>Definition:</b> A formalism for problem-solving in artificial intelligence.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:92f9e7edeaac4db1bcd2b40503015158]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Sexually Transmitted Diseases </p>
+<p><b>Definition:</b> There are many types of sexually transmitted diseases.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:aa6ed5ba1c794f7aa69bdfa6e9c62523]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  electromagnetic radiation</p>
+<p><b>Definition:</b> Any wave or other form of electromagnetic radiation.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:f1045f3db8944e209a54fe8a0ed79ea3]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  autoimmune lymphoproliferative syndrome </p>
+<p><b>Definition:</b> Autoimmune lymphoproliferative (AHL) Syndrome is a condition in which ischemia, splenodefibdomains (i.e.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:bc594cacdb194fb9814721be17f68566]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  slip-off slope</p>
+<p><b>Definition:</b> Any gently sloping landformaltered orifice.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:13e5d9faa892456f8cf58fcbd459131e]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Coffin-Siris syndrome </p>
+<p><b>Definition:</b> Coffin-Siris syndrome is a rare genetic disorder characterized by coarse facial features, sparse scalp hair, hirsutism, hypoplasia of the distal phalanges and hypoplastic nail in the fifth digit, and mental retardation.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:5c4ee04251ac4158987ad1d487500704]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Beare-Stevenson cutis gyrata syndrome </p>
+<p><b>Definition:</b> Beare-Stevenson cutis gyrata syndrome is a congenital bone disorder that primarily affects the skull (craniofibodystrophy</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:3327c305eefb4bb599e9261ad3b5115e]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  crop weed</p>
+<p><b>Definition:</b> Any organism that affects a specific crop, such as weeds, trees, or shrubs.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:a8981089ea2a48958f6436894ad1abd5]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Histiocytosis-lymphadenopathy plus syndrome </p>
+<p><b>Definition:</b> Histiocytosis-lymphadenopathy plus syndrome is an inherited condition that affects the immune system.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:2d4cd537096b4177ad3b389cf67fc308]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  human impact on the environment|anthropogenic</p>
+<p><b>Definition:</b> The change in the environment caused by human activity.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:21a15feb079944e6a9dc4fbd859d56b7]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  enlarged parietal foramina </p>
+<p><b>Definition:</b> Espaol
+   
+  - Enlarged parietal foramina is a condition that affects the development of the parietal and posterior parietal bones.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:7a6643f160a44ff0a0acd68c8bf21cda]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  slip-off slope</p>
+<p><b>Definition:</b> See bedding rock slope.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:a90abe4c9d874d8997781df0fa2d5181]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  electromagnetic radiation</p>
+<p><b>Definition:</b> Science of transmitting electromagnetic waves from one place to another.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:fa616d9ef6da4f209c0a6b483629859e]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Histiocytosis-lymphadenopathy plus syndrome </p>
+<p><b>Definition:</b> Histiocytosis-lymphadenopathy plus syndrome is a group of inflammatory lymphadenopathy (Hemolysis erythrophilus sarcomatodystrophy</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:b188782d52d34472a9baf537e8a7de30]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  electromagnetic radiation</p>
+<p><b>Definition:</b> AA type of electromagnetic radiation.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:b2da7e79538746c99be0a4172281d531]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  limestone</p>
+<p><b>Definition:</b> Geological, or sedimentary rock of intermediate thicknesses.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:5405c30d16a04bce9bd2439c10d4df9e]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  E. Coli Infections </p>
+<p><b>Definition:</b> E coli is the name for Escherbivary.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:c2ff335d18ca4fc4b4f4824781e830d0]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Kelvin–Helmholtz instability</p>
+<p><b>Definition:</b> A condition of an incompressible to-lapsisotopyrox.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:1f685386fd6e4ea09205dae14621d8de]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Battery (electricity)|battery</p>
+<p><b>Definition:</b> A device that generates electric power from an electrochemical reaction.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:8d2649020a3245d1a686772aff557192]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Paroxysmal extreme pain disorder </p>
+<p><b>Definition:</b> Paroxysmal extreme pain disorder is an inherited form of erythromelalgia.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:4e155ef16d8c4bf6bd0340a23704866d]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Usher syndrome, type 2C </p>
+<p><b>Definition:</b> Usher Syndrome is an eye disorder characterized by the onset and/or hearing loss of vision.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:1b40140ad7354930b2694d3fe7ebfe43]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  47,XYY syndrome </p>
+<p><b>Definition:</b> 47,XYY syndrome is a developmental disorder that primarily affects boys.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very

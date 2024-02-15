@@ -1,0 +1,1889 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,participant_id,list_choice,c98d145036c147f8a16d603c319932de,ba1f7cec7b874845a4925e9c62ee7c46,14ac7eb8160748a0952434dd58d2d04d,4a0194a4be524557ba82bd6351960e9d,63c931d0e9d04676b193f04bf12eabaf,f042ac2f055045e6a72d05dcafbe8eaf,5d88d0ba2620422eb33d6468853da1be,582163e895bf470c8c0305b7f8f64d75,d363319f0daf4b4bba98ea2f5ed6514c,aae1b06bdde34b699e264ae70bc92bd8,e4961f378bff4db1a20b5e2460d7fb8c,f1555d9e3546403786349cc877d39553,f2ed25ea671242afafcf90fb710268d6,9d37af3b22e342acb02cc2e8a2b99496,8e2c745e540d458a9848893653b25893,e48dec4bbb804523b029c24d7b649fac,c09069671b8348218a28ca7383a68b02,85ec4fc7fffd4ac599eb7461cc7209f1,daf740078f4c4bf18d774b156aca2782,6491e4d4aeeb449e8b56b4038a6e3aa4,f373e95e128f4b3e8fe46b6aaeeab49d,f6c15f8cdb5243c884c0c172a620ecb8,e499aaedcbfc4e20871911b6994ff19d,069acb1eccb54a20bd01043963d4519a,16213fdbc4d44285a83d446a6f2c3f1d,b7fe2e425d404be8bcda0e8e3482914f,e150d598b6bf4b24ac4834b99e22726d,97dc77e3b5e349609a9b5d57d9c623ce,1156b3de961e4e2cb1bd01bd8c1febbc,f89868dfdda64faa8fd861574e66f220,3657b7a2a48342ada6ed7fd8f540ea27,b6133e47600e4b9eb0eb90c4a49069a2,b8a3bc4aaec3440b8d15f46fdbd0d1b4,9e63e756562a4d90b2fb02a4facea892,21b83488a0a54fd98bcb1e412f7115e2,18e435ad54ff4070b06fe0bf3ad32b7b,23604b61810943808c621ec569d0d99e,acf2fbdc68924fb581b9507665987cb4,493a853039614051882261c454955185,8eedcf0634254ffd98b6fe2e88b11cf7,ccdba0556b1444ff86a559e0b19f9173,b59d28ae9f3e415590fb7db49f22f7cf,0b34b723831f4be58de6d5f56c02ffe2,a46a96897318434b848e29dd6e5edc5a,8e28ab2bd2394cab97b83660c79a5891,fd1561f177b544969b80c32789f83567,530b7329203745d19e4f5e09cd78a37f,87bd3ac554824b5b9060fba005170fe5,dc3924ab3bce4d628186b513fb949bc2,161b44652e2847ba8002d3bff8df53fc,dacf678a77754932971e38f2cdab9f87,5e094819c26346b9ba84ac382ce3ea34,682cf02b2c464db79abc0c77b693ae5c,5536602e81744ab4a7dc2e70d57e81bc,48edada427844ff79e148831ef6f6f91,1bac9097000e449196352d814d658bac,8a60268e792b4971818babc7e7d136be,f1623468bf284c73bf25250792590312,459bc76f49ba4c7daaee2923a8c6f265,1f2b362979a840109915912e82395113,58b65aa92e6a4dcf9de3de40f2e7045c,08ecccfc403c4349870358de6847a177,b3c3a4b3e94447bc8382f5271cc3b5d6,7a63cdd1f04848abbfc4aa41a3a47aa0,b320098f3e664d49addb7dbddc8019e4,4c645b68216d47bba08dc40fbcd05dce,0867620f805e407f9fb8d2b1e054ee0c,d070c81dfc1146408ba015a59b44fdc7,06da89d36a614d269bf303801b809ed7,b3900dfc69ef40d4a912d9611db69e4e,1092420c33714a82ab6d9507c82e2f52,2053a3c5bd7e4cfd9717a0ca3e3d985d,f0b30833e18c42bf81935a8399d3b984,eb29f3a1d4a049aa9d412bcfc5b24954,ec58754314f34db191579885e1bea104,4806bebb578e49bc8b4b13a6a5ab66cb,88a07419bf5941b4930123d20ada499d,9666edc1bc22441eb05c139796e6c95d,93a9e444bcf842938b23f73a0e4215d3,4eb9284bc5f24748af81cebdc587acc0,53156e9a555045059c72a8c10f62786f,3efc9c280de0459f93597fb28daea818,4b24f6ddc31845efb109d30e2bdb3883,5a09779db96a424c8fac8fe7996a25c1,452f8afe4902416fb0d5de6035a69941,33f9833b9e88418686cd4c754bba3dc0,3c89f54a788b4568819ed572c77d1655,384a4eacc82a48018f2ddc7b4a5a9148,c028326c1180443f90a1a6a6d40d86af,8a419654728c4aa2908db5485cb21fbc,7c943463f5d64771b8227da2669fb723,2e2d6940a04c4c4d9befb38b16ff9d79,b076b86b361346e992af820fade1f745,cb7f6963e155477c99e3680dcbe51ef4,0201e274aae546eeba1d9fd8aa48018d,3415168a56ba4577a73029b05029ac16,caff0abec1bd409bbb359b25afa3e987,14e361e2ccf9426ab0be3f6e49adf4c4,7fbb666c08f24739af87cad5056b2c5e,92f9e7edeaac4db1bcd2b40503015158,aa6ed5ba1c794f7aa69bdfa6e9c62523,f1045f3db8944e209a54fe8a0ed79ea3,bc594cacdb194fb9814721be17f68566,13e5d9faa892456f8cf58fcbd459131e,5c4ee04251ac4158987ad1d487500704,3327c305eefb4bb599e9261ad3b5115e,a8981089ea2a48958f6436894ad1abd5,2d4cd537096b4177ad3b389cf67fc308,21a15feb079944e6a9dc4fbd859d56b7,7a6643f160a44ff0a0acd68c8bf21cda,a90abe4c9d874d8997781df0fa2d5181,fa616d9ef6da4f209c0a6b483629859e,b188782d52d34472a9baf537e8a7de30,b2da7e79538746c99be0a4172281d531,5405c30d16a04bce9bd2439c10d4df9e,c2ff335d18ca4fc4b4f4824781e830d0,1f685386fd6e4ea09205dae14621d8de,8d2649020a3245d1a686772aff557192,4e155ef16d8c4bf6bd0340a23704866d,1b40140ad7354930b2694d3fe7ebfe43,c3329a0c87b240aabeefebe18e044f7a,73e292c81aa7450396cc0b5183f5bc1c,6e0161051d1c4fb2ae0939a712f8dba7,41c071fa2da047a2b24c74f6e2afa3c7,fc1a33e19f06488f83b1614376edd22f,12b6c6d463a0467db14b595196bf59fe,aa6ba86ca9fa4324bcf0e0360c13cbc9,10cfc4dcae724b88b39298802d242030,4860f643cc154843b8df3dcb76feaa29,8b1e06e0cf9e4be2b8c18774c89a7e4b,2bc1acb3ae0341d6a641205ef6289986,15eeb752490c43d4b4559d3991247635,9fa69cf5f170439cba792db51c0938dc,3bf3a0d60e394d85b7b558389c0e5c5e,46212ec6935e4e40b8f50d31c960a810,e32b96568d0e4503bc9aaed9e0a6fedb,668f95afeb3c4d66bfe383c2efe9f069,f0f4b2bc0a154b15b344813344195831,12bbdd921c854166a1e83eed23f78ae1,1124a89c7c4f4a03a9e0a21a4afee80b,f9485d463c764cc2b48a61c1ca050e53,3dc98f6cb1f04ea8802a98dca63e5128,90a83a2656da434ca507549ef48dda3d,13dd0faadeff4a589076f3cec1beb8d3,2931b094da03430a8a5e6b0f521ec7d9,9e648a5b32c441b6af0a2586af9d943e,28783e72455f4a939559b7ff1d1503f0,a7259fe367b1417fb534109a06005697,af4655fd8a0c40f0834f4f764b4cc3b5,9fb0f48968924611a649bf1c63b66404,4fc8039444cd4d96b6618b0505ee157a,a63b0394849142b2b87c2aad14331019,7bc0acfd18ba4db39c823524b9423246,00bb8b9044434fddbc92263330694a70,a3aef031b825408797ca3dba2a2196d4,ec45716ddbc34781996a6fb52feedfc0,54894cdc596945eaaf6c10bdb763ac09,71124843e21e468da8aef309fac9d2b7,5e397a3d807b42038ed3667487761d8e,c912766fdab94f7f84b79bcf67e5048c,af83626525e24bce88d98d8ef77bf081,7f2d2894b88c4a258ebb4ef22dad6a02,86518ae41720436daa4311d6db3e2086,f3dcf6fc60c748a2806ea85cd83bf9c3,708ff90c31394f41910dfa4c113d4eb1,ee7d683aca674bd19fd8fec8b0cff86b,6263f500575f43bf90bb2871ccf60c20,f2962bd50ad448ada0bb6a68e9c195e7,84e5f7572f104f3ba17b4d7c0cc10c06,7772ab7d8577438c87459afe3820d12b,1a9b199a97044eb0a8661c8187f2c082,daba828e24bc49ab87efb3d4fda7f70c,59b9440029ff40e2b013dec407f961ce,f39e15796bdd469ab168edc4cd604ada,8c75a696816b4ad5b706e7e5127c8cfb,a5b262e09a4d403692960c9de04e6658,98b2e6c3c5d142489bbf54f1ed2586ce,fd985d31b8134f419575101e9dfe0313,f2cc4a216dbb446da686fb054c1ac4e7,544c9453e9de4fdab72e03494ca7c79a,87c9881993c44556a5b47db813d57e3a,53a7ad06b09c459abf655f4eb6c85227,76f3cef63eb84ea88141b814317292b0,c9cd002cd69e4d9dbbc496a22be34f69,39ec3f5cc81e4a32b37a76910978f1bf,b96a7eff3c2245e7b88c91d20e85c19a,7c4586164a0347699c9fb35b50ffe389,e12ed86bd0e54c56bf64bded619532c0,04f24f64d86e4fbfa8d8b0bdcd737ba5,392e4b5f66b9450eaa7a892658829e0b,d644943c55684a80984f298f57fb3a19,a8cf0de948254e39adec678f49f2aeed,25829b242fef48f89f4b89406a8a8bcf,957ffa323c8943b5b15e1a7b34cf8581,b167b40e96ee4b7682b3e4f9fdef935b,e310d700b64c422cbf6ad412e0572a2e,dc79d6968e2b419a8e660cb8db626fe1,8d3ac47e2ef149638f31f04bb8e3cb88,a376d519ad9742179adc6de3ef983e6e,49bdf818464240d0bd52a54a7734d8b0,e16ce1719ac8495790110b85111aff3f,6dd21b385d904e1694e449e5e9c448b4,06e32f2708524a73939556eda30b0095,a70f6c4585214dff9edb426bc2e6fc54,73663b82c6a747f388d0036960fa1be1,56fb6eb7b7e44bfe99a7734e400f6fbe,cc9384cfe40341b89e4f6b26e15559c6,78a95a11bc1549cabc462c49908eb137,22986820887f4fc7a63f3ebb85aa1342,f4b029c364be466fbf75c1acdfbc15fa,154583c4ce7741488ed54a274c853195,fadb0e32b9a9400c8afecc55ce588b48,995b5d49e7f24c2ea518559fa4ec54f0,e350a5a5b0d845ac8bfd532f61099042,1344ff92002c4a1fb08062d9dfd604ff,df3cc8c5a856481988e03ccb2f757c91,a720fe4e346746709466e0af7f0b7eb8,9c383cb5f09147ffa4a265a231925cb5,aa9332fa84664c4482dbf55f33077933,a1b55717fd0b4108b73137ee0dad08a2,7d06234d5e3641c39c3b0af30dac509d,561e262e06fd4aeca92e7f1794618436,260b2a05a6e54fb1af010b90c329f77e,9a145f146cb043dc931a2da6516787ca,5f46b60502be45feb23582e76c92e892,5d9b2e5e66d944c3a8e09fbe0e061cc6,b03d1906e21f4266bcb67d2fefeb7a12,db4e0a5967e04815ac8ec7ec2eed9d0f,3ba66168458b405388902888b068f336,6fcd5a2e1e8c4a71843a9fe8d7fbd2a1,07c0c73218d244d59ce20dfcf3a280d1,b86e9d32d13d474fb8c165890970f23e,ca01547b2f2c446bbbcea1dbc4d36c8b,5be27c7455d1422f8d588d77c968a5be,cdf521eca81742dabec04259c1b03057,efc702e7035940fc99d9cf551bfbe587,746a916bc79d4885b67e9555de0dbafc,be7570fbd6e44ac28794457928aca292,88a882f843314ceeaf3c30236b125716,476126b854b74452acd6d1cbf5a0522e,497098cb81d54f288c821e4a22e7452f,f63d96d82cdd41f081c038f7aebd0c41,9af31ecd200f4043b93d1b3b02adbd37,c7538276905c4bcb9d915557381b6926,b3f806b20fd542f6a9dfaa67fd930f67,74dd0890eddb4ce183c0b7e00f0f647c,612bd64731254a488dd63aad48710b99,ca5f0dd2d5664495980bf9caca8f59d6,74d36322f9d349f4b9e242e49e4f4d2d,a3d7dd11bd9a44588902edae05c5b1c9,f60643b922a346ef89b156d8c8126c0c,a476c5f53a8c4ea18f674c550e6e84cf,c21b44a9e365475c9c61cde97f1a4f33,50c86151e03245308de76c9211995033,a86f5ffb0d4b44cf99e3bce96874d0b8,3a884eb635a945a79c1de32939562388,89d5acde90154fc198f52f2fc1228e2e,581da16e348e4c80ad9d4ee3e327882c,3167db10bf4845e5a85c32f029dca3a1,b57be40ebcb547e4a52543b4fe34047e,f1329a141daf41c995a096ddb3ece430,881f3539531e43a398e55c30e959c48a,c9479e63926f4b0ca3b0a0b3a6e99fbf,645f9b0dcd694aaf83f96b0c36993c26,6b6a9f4b82d740169dcea37b0cd13ccc,9f320da2ebcd48c8bee5704ecb19abcd,6c30dbafee144aa89f18bc78b518dc8a,f97f0912a22d432ea9456d847712e9cf,be10faea650b4157bb5b33e0ddc84474,647db6965bb44398a5dd70ac1790592e,eddbfd38a6194d81a34034f4c0d3a3b8,f5343ba5b71e4c19bc592abeaa850323,b720c2ead21940218e1265496672c9b0,63194b5738c648db8d0063cf94ec7f6a,a9c939c93a0e4cc68f5156b53f84e486,05a35c3cfe5d41f7b806a300b1c42a82,0e1038cf75d74aafbe581d80c1c8075f,09315e73a0ce47f380cb640cd126daf6,0fa3b5abb7cd4f19b139e86bdafe9e69,929c037137644cccaf1a10caa7632eba,3300881472114243941bf0d8f0593477,69ef1c565a284c2bacde9cf896300d71,7a992993060e4dccb361222ae3f9549a,c14f6120f9cc4f4abdb274c42032edc6,01599359296345ce8b15e87f0b19e83f,b9c76612d33743aa8e06038f2f97321d,aad6786bc6d343ad961de27fefec1444,0e604ec109274eb1951297463b037ac1,da3e59a32f014547a2f8e5327f3c802b,2c9381ea4d7c496883966d2ee5fb56db,60bedde5888a424aaa6d14808dbdaae5,a99291b9f57544d78e427e9f38c61bba,cb5b143f1ca74431ad0213d32d78bd8f,c2f118f84c6b4236a08e31c1fec3ef19,db49f6383d914e0480c71533b947fc46,3a5df91a827a4447ae298ac0dfe65557,75b18426e2f54deead2c8b55b3dfdfa4,194e434082524b10b52c7eb04886699a,f7c25a63242540768468a03aeeaa9f99,425a2c57277a4596af41494ab28d2f0c
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,What is your participant ID?,What set of items would you like to work on?,"Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Boyle's law
+Definition: The relation between the kinetic energy of a thermodynamic potential energy components and 
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Barraquer-Simons syndrome 
+Definition: Barraquer-Simons syndrome is a rare inherited disorder that involves the premature loss of fat (lipodystrophy) in parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  xenotime
+Definition: A solid of white zirconium.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agricultural economics
+Definition: The branch of economics that studies the production, distribution, and use of agricultural land and resources.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  enlarged parietal foramina 
+Definition: Espaol
+EspaOL  Foramina parietal foramina is a condition characterized by anisotenomena.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sediment trap (geology)|sediment trap
+Definition: A type of separating grain- or solute by-sillustleads, i.e.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Split hand split foot malformation autosomal recessive 
+Definition: Split hand split foot malformation autosomal recessive is a condition in-developmentalefectrodactyly of the fingers and/or toes.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Bayesian programming
+Definition: A computational philosophy of computational psychologist Stephen Jaynes’s idea that decision-based on Bayesine inference (mathematics.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agglomerate
+Definition: A conglomerate of dissimilar material, i.e.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Lupus 
+Definition: Lupus is a chronic inflammatory autoimmune disease that damages your connective tissue.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crossed-field amplifier
+Definition: A type of radio amplifier that converts signals in one direction to another, i.e.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  47,XYY syndrome 
+Definition: 47,XYY syndrome is a chromosomal condition that affects males.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Lupus 
+Definition: Lupus is a chronic disease that affects your connective tissue.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sediment trap (geology)|sediment trap
+Definition: A pit dug into which traps sediments to slow rock or uneven gradulate movements of sediments.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  mucopolysaccharidosis type VII 
+Definition: Mucopolysaccharidosis type VII (MPS VII) is an inherited condition characterized by the accumulation of undegrins.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  cystic fibrosis 
+Definition: Comstic fibrosis is a complex multi-systemic chronic disease that affects many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Liposarcoma 
+Definition: Loma.liposarcoma refers to blame-driven cancer.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hairy cell leukemia 
+Definition: H, formerly called chronic lymphobloblastic lymphocytic lymphocytopl
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Duane syndrome type 1 
+Definition: Duane syndrome is a disorder of eye movement.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  etchplain
+Definition: An area of land that has been partially or completely eroded by subsurface weathering.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agglomerate
+Definition: A heterogeneous clumps of solute solute dissolved solute.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Salivary Gland Disorders 
+Definition: Your salivary glands make saliva.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Histiocytosis-lymphadenopathy plus syndrome 
+Definition: Histiocytosis-lymphadenopathy plus syndrome is a condition that affects the immune system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Adrenal Gland Cancer 
+Definition: Your adrenal glands are two bean-shaped organs in your lower abdomen.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Heart Valve Diseases 
+Definition: Your heart is the largest organ inside your body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  autoimmune lymphoproliferative syndrome 
+Definition: Autoimmune lymphoproliferative syndrome is a genetic condition that primarily affects the immune system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Variant Creutzfeldt-Jakob disease 
+Definition: Variant Creutzfeldt-Jakob disease is a rare, degenerative brain disorder.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Herniated Disk 
+Definition: A herniated disk is a bulge in the middle of your back.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Liposarcoma 
+Definition: Metastatic liposarcoma (Ml) is the most common form of liposarcoma.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sexually Transmitted Diseases 
+Definition: There are a number of sexually transmitted diseases.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crossed-field amplifier
+Definition: A type of two circuit that generates resonantly symmetric, i. 5231
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hermansky-Pudlak syndrome 
+Definition: Her, also known as HPS, is a disorder that affects many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  culture
+Definition: The diversity of beliefs, practices, and beliefs that form the basis of human society.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Barraquer-Simons syndrome 
+Definition: Barraquin syndrome is a rare disorder of lipids (lipodystrophy
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crop weed
+Definition: Any organic plant or mineral that is harmful to crops, particularly weeds.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crop weed
+Definition: AnyAny plant that is resistant to herbicides.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Battery (electricity)|battery
+Definition: An electrochemical device that converts electric power to mechanical energy or vice versa.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paroxysmal extreme pain disorder 
+Definition: ParParoxysmal extreme pain disorder (PEPD) is a rare, chronic, chronic form of erythromelalgia (IEM).
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Histiocytosis-lymphadenopathy plus syndrome 
+Definition: Histiocytosis-lymphadenopathy plus syndrome is a condition that affects the immune system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Bayesian programming
+Definition: In programming, a formalismatic formalism (i.e
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  commutator (electric)|commutator
+Definition: An instrument used to convert electric current into direct current.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Duane syndrome type 1 
+Definition: Dougherty syndrome type 1 is a type of Duane syndrome.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crossed-field amplifier
+Definition: A type of amplifier that relies on an electric field that passes through a vacuum.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Salivary Gland Disorders 
+Definition: Salivary glands are tiny glands located on top of your tongue and throat.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  cystic fibrosis 
+Definition: Cystic fibrosis is a complex group of diseases that affect many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  limestone
+Definition: A coarse-grained sedimentary rock, often with a white or grayish-brown coloring.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sexually Transmitted Diseases 
+Definition: Sexual transmission of diseases (STDs, buttersonset.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crop weed
+Definition: Any, is a type of weed.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Usher syndrome, type 2C 
+Definition: Usher syndrome is a progressive condition that affects the nervous system and other body systems.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  electromagnetic radiation
+Definition: A as well asymptotic function, i.e.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Beare-Stevenson cutis gyrata syndrome 
+Definition: Beare-Stevenson cutis gyrata syndrome is a condition involving the development of skull bones.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  intensive and extensive properties|intensive property
+Definition: See intensive property.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  human impact on the environment|anthropogenic
+Definition: Impacts on the environment caused by human activity.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sarcoidosis 
+Definition: Sarcoidosis is a disease in which the immune system mistakenly attacks and damages one or more parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paroxysmal extreme pain disorder 
+Definition: Paroxysmal extreme pain disorder is an inherited form of erythromelalgia.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  intensive and extensive properties|intensive property
+Definition: A collection of anosities characterized by or relating, e.e.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Variant Creutzfeldt-Jakob disease 
+Definition: Variant Creutzfeldt-Jakob disease is a rare, degenerative brain disorder caused by an abnormal accumulation of prion protein.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  enlarged parietal foramina 
+Definition: Enlarged parietal foramina (funneling of the parietal foramina) is an inherited condition that affects the development of the top and sides of the skull.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hermansky-Pudlak syndrome 
+Definition: Her.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Kelvin–Helmholtz instability
+Definition: The state of a fluid in which the volume of the fluid is too small for it to move freely.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  culture
+Definition: The way in which people think, act, and think about the world around them.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Heart Valve Diseases 
+Definition: YourHeart valve diseases are serious heart problems that restrict blood flow to developement.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  cystic fibrosis 
+Definition: Cystic fibrosis is a chronic disease that damages your digestive tract (thromesophageal mucosa.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Boyle's law
+Definition: The mathematical relation between temperature and pressure.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  virology
+Definition: The branch of biology that studies the molecular and genetic structures of viruses and their interactions with host cells.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  autoimmune lymphoproliferative syndrome 
+Definition: Autoimmune lymphoproliferative syndrome is a condition that affects the immune system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Barraquer-Simons syndrome 
+Definition: Barraquer-Simons syndrome is a rare condition characterized by the gradual loss of subcutaneous fat, which usually starts in the face, extends downward to the waist, but spares the legs.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Pudendal Neuralgia 
+Definition: Pudendal neuralgia (PWN (Pudiangia is a condition in contrast topl.)
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  xenotime
+Definition: A type of igneous rock that is composed mainly of zirconium and feldspar.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agglomerate
+Definition: A conglomerated conglomerate of smaller pieces of different or relating to anaerosphytes.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Pudendal Neuralgia 
+Definition: Pudendal neuralgia is a condition that causes pain or discomfort in the area of the groin, the part of the body that controls movement.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paget disease of bone 
+Definition: Paget disease of the bone is an inherited disorder characterized by abnormally symmetric appearance ofebolumbarithmetastrophies.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sarcoidosis 
+Definition: Sarcoidosis (Sarcody) is a type of lung disease.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Tsunamis
+Definition: Summary : A tsunami is a deadly natural disaster.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agglomerate
+Definition: A lump of particles or liquid mixture organized into units.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Usher syndrome, type 2C 
+Definition: Usher syndrome is a group of genetic disorders that affect the nervous system and nervous system plays a part of nerve cells, spinal cord movement and involuntary muscle tone, muscle tone (muscleftal muscle tone and rhythmicromatolysis muscle tone
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  human impact on the environment|anthropogenic
+Definition: Any form of human activity on an individual or harm to an anthropogenic (anthropogens.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  etchplain
+Definition: See etchplain.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Volcanic ash|ash
+Definition: A type of fine-grained volcanic material that is released into the atmosphere when a volcano erupts.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Lupus 
+Definition: Lupus is a chronic connective tissue disease with a varied clinical phenotype.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Boyle's law
+Definition: The mathematical relationship between atmospheric pressure and greenhouse gas emissions.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Tsunamis
+Definition: Summary- A tsunami is a type of earthquake.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agricultural economics
+Definition: The branch of economics that studies farming, especially farming community agriculture supply and demand to consumer habits and selling crop production, farming producers, and livestock animals.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  47,XYY syndrome 
+Definition: 47-XYY (X-ray-Y-X) syndrome is a condition that occurs when therebinarithymodigonal gene isomechaninositheses).
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Coffin-Siris syndrome 
+Definition: C
+Coffin-Siris syndrome is a condition characterized by short stature (dwarfism), coarse facial features, sparse scalp hair, hirsutism, hypoplastic nail in the fifth digit, and intellectual disability.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Split hand split foot malformation autosomal recessive 
+Definition: Split hand split foot malformation is a congenital malformation that results from birth defects in one or both of the time-looking bones (Autosophagus.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  human impact on the environment|anthropogenic
+Definition: impact on the environment that results from human activities.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Salivary Gland Disorders 
+Definition: nan
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Salivary Gland Disorders 
+Definition: Your salivary glands are two small glands in your mouth, each about the size of a fist.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Adrenal Gland Cancer 
+Definition: Your adrenal gland is part of your adrenal gland.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Adrenal Gland Cancer 
+Definition: Your adrenal gland is a 2-inch-long gland behind your collarbone.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sexually Transmitted Diseases 
+Definition: Sexually transmitted diseases (STDs) are a group of diseases caused by bacteria.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  enlarged parietal foramina 
+Definition: Espaol
+
+
+
+
+
+
+
+ﾂｭ		ﾂｭ
+—Enlarged parietal foramina is an abnormally large parietal bone abnormality.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  E. Coli Infections 
+Definition: E. coli is the body’soup-like, fecal or staphilococciinating bacterium.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  enlarged parietal foramina 
+Definition: onenital foramina are missing or enlarged openings in each parietal bone of the skull that is present from birth.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  intensive and extensive properties|intensive property
+Definition: A property that is used more than any other.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Tsunamis
+Definition: Summary : Tsunamis are waves that inundate shores in the ocean.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Pudendal Neuralgia 
+Definition: Pudendal neuralgia is a syndrome that causes chronic, numbness or debilitating areas of one area innerval nerves.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Bayesian programming
+Definition: A formalism for problem-solving in artificial intelligence.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sexually Transmitted Diseases 
+Definition: There are many types of sexually transmitted diseases.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  electromagnetic radiation
+Definition: Any wave or other form of electromagnetic radiation.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  autoimmune lymphoproliferative syndrome 
+Definition: Autoimmune lymphoproliferative (AHL) Syndrome is a condition in which ischemia, splenodefibdomains (i.e.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  slip-off slope
+Definition: Any gently sloping landformaltered orifice.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Coffin-Siris syndrome 
+Definition: Coffin-Siris syndrome is a rare genetic disorder characterized by coarse facial features, sparse scalp hair, hirsutism, hypoplasia of the distal phalanges and hypoplastic nail in the fifth digit, and mental retardation.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Beare-Stevenson cutis gyrata syndrome 
+Definition: Beare-Stevenson cutis gyrata syndrome is a congenital bone disorder that primarily affects the skull (craniofibodystrophy
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crop weed
+Definition: Any organism that affects a specific crop, such as weeds, trees, or shrubs.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Histiocytosis-lymphadenopathy plus syndrome 
+Definition: Histiocytosis-lymphadenopathy plus syndrome is an inherited condition that affects the immune system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  human impact on the environment|anthropogenic
+Definition: The change in the environment caused by human activity.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  enlarged parietal foramina 
+Definition: Espaol
+
+- Enlarged parietal foramina is a condition that affects the development of the parietal and posterior parietal bones.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  slip-off slope
+Definition: See bedding rock slope.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  electromagnetic radiation
+Definition: Science of transmitting electromagnetic waves from one place to another.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Histiocytosis-lymphadenopathy plus syndrome 
+Definition: Histiocytosis-lymphadenopathy plus syndrome is a group of inflammatory lymphadenopathy (Hemolysis erythrophilus sarcomatodystrophy
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  electromagnetic radiation
+Definition: AA type of electromagnetic radiation.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  limestone
+Definition: Geological, or sedimentary rock of intermediate thicknesses.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  E. Coli Infections 
+Definition: E coli is the name for Escherbivary.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Kelvin–Helmholtz instability
+Definition: A condition of an incompressible to-lapsisotopyrox.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Battery (electricity)|battery
+Definition: A device that generates electric power from an electrochemical reaction.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paroxysmal extreme pain disorder 
+Definition: Paroxysmal extreme pain disorder is an inherited form of erythromelalgia.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Usher syndrome, type 2C 
+Definition: Usher Syndrome is an eye disorder characterized by the onset and/or hearing loss of vision.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  47,XYY syndrome 
+Definition: 47,XYY syndrome is a developmental disorder that primarily affects boys.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Coffin-Siris syndrome 
+Definition: Cis a rare genetic disorder that causes intellectual disability in their 30s–80s years old–40–60 c
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  intensive and extensive properties|intensive property
+Definition: A property that is used intensively, i.e.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Volcanic ash|ash
+Definition: A volcanic ash precipitated by an explosively ejected plumes of magma.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Salivary Gland Disorders 
+Definition: SalSalivary glands are glands located behind the upper jaw.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sediment trap (geology)|sediment trap
+Definition: A device used to trap and weigh sediment.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crossed-field amplifier
+Definition: A transducer that amplifies an amplifying and amplifying or magnetic fields.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  slip-off slope
+Definition: A type of slope that forms when rocks are pushed or pushed away from the sides of a steep slope.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Barraquer-Simons syndrome 
+Definition: Barraquer-Simons syndrome is a rare inherited form of partial symmetric lipodystrophy.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  mucopolysaccharidosis type VII 
+Definition: M (Mucopolysaccharidosis), also called glycolysis), formerly called mucopolysaccholymphorrhylococcus is an inherited metabolic syndrome congenital congenital
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hermansky-Pudlak syndrome 
+Definition: Hermansky-Pudlak (HPS) Syndrome is a condition characterized by an impaired ability of platelets (plaqueous granules.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Tsunamis
+Definition: Summary, or tsunami, is a type of earthquake that occurs in the Pacific Ocean.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sarcoidosis 
+Definition: Sarcoidosis is a condition in which granules (wads and shearithmetical membranes (i.e.g.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paget disease of bone 
+Definition: Paget disease of bone is a bone disease characterized by abnormal osteoclasts that are large, multinucleated, and overactive and that contain paramyxovirus-like nuclear inclusions.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Salivary Gland Disorders 
+Definition: YourSaliv is a mucus.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Coffin-Siris syndrome 
+Definition: Coffin-Siris (CS) Syndrome is a condition characterized by coarse facial features (cavity.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  etchplain
+Definition: See ecoregion.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Usher syndrome, type 2C 
+Definition: Usher syndrome is a condition that affects many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Heart Valve Diseases 
+Definition: The heart's four valves carry oxygen-rich blood to the rest of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  polynya
+Definition: See open water surrounded by ice.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  commutator (electric)|commutator
+Definition: A device that converts electric current to magnetic flux.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  virology
+Definition: The study of virus.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crop weed
+Definition: Any of the herbicide herbicide chloroflucaine, insecticide insecticides insecticide herbicides designed to kill herbicides
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Lupus 
+Definition: Lupus is a chronic disease that causes inflammation of the connective tissue inside your body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agricultural economics
+Definition: The subfield of economics that studies agriculture.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Joint Disorders 
+Definition: nan
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Pudendal Neuralgia 
+Definition: Pudendal neuralgia is a neurological condition that affects the groin and thigh muscles.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agricultural economics
+Definition: The sub-oriented theory of- and theoretical economics in agropeculculations.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  enlarged parietal foramina 
+Definition: An enlarged parietal foramina is a condition that affects the development of the parietal bones, which are the bones that form the top and sides of the skull.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  etchplain
+Definition: See plain.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Beare-Stevenson cutis gyrata syndrome 
+Definition: Beare-Stevenson cutis gyrata syndrome is a condition that affects the development of the skull.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Split hand split foot malformation autosomal recessive 
+Definition: Split hand split foot malformation is a rare genetic condition that affects the hands and feet.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  human impact on the environment|anthropogenic
+Definition: See human impact on the environment.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Herniated Disk 
+Definition: Sampling? A herniated disk is a bulge or bulge in your lower back.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Adrenal Gland Cancer 
+Definition: Your adrenal glands are two bean-shaped glands, each about the size of a fist.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Pudendal Neuralgia 
+Definition: Pudendal neuralgia (PN) is a chronic, painful nerve in the groin.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paget disease of bone 
+Definition: Paget disease of bone is a bone disorder that is characterized by abnormal osteoclasts that are large, multinucleated, and overactive and that contain paramyxovirus-like nuclei.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  slip-off slope
+Definition: See bedding rock slope.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Adrenal Gland Cancer 
+Definition: Your adrenal gland is a gland in your lower back that produces hormone called cortisol.k.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Battery (electricity)|battery
+Definition: Any electrical power by electrolyteener that produces or transmits electrical contact by electrolytes.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Joint Disorders 
+Definition: Joints are made up your body parts (or knees, elbows, elbows or knees.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  autoimmune lymphoproliferative syndrome 
+Definition: Autoimmune lymphoproliferative syndrome is a disorder that affects the immune system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Barraquer-Simons syndrome 
+Definition: Barraquer-Simons (BS) Syndrome is an inherited condition characterized by the loss (gradually symmetric lipodystrophies which isochromasia 206.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  xenotime
+Definition: A rare earth element that occurs naturally in the Earth's crust.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  mucopolysaccharidosis type VII 
+Definition: Mucopolysaccharidosis type VII is an inherited disorder characterized by the accumulation of undegraded and partially degraded glycosaminoglycans (GAGs).
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  xenotime
+Definition: See lysosilicate.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Beare-Stevenson cutis gyrata syndrome 
+Definition: Beare-Stevenson cutis gyrata syndrome is a severe genetic condition that affects many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  E. Coli Infections 
+Definition: E. coli is a type of bacteria.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Adrenal Gland Cancer 
+Definition: Key Points
+                   - Adrenal glands are glands located behind the adrenal column of your adrenal glands.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Herniated Disk 
+Definition: A disk herniation is a condition in which achondragillaries (i.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  polynya
+Definition: See open water.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Boyle's law
+Definition: A physical law relating atmospheric pressure with ideal gas in the atmosphere.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hairy cell leukemia 
+Definition: Hairy cell leukemia is a rare disease characterized by noncancerousplacement (i.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Joint Disorders 
+Definition: nan
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Herniated Disk 
+Definition: A herniated disk is a fluid-filled or bulge-like disc.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Herniated Disk 
+Definition: A herniated disk is a bulge or bulging cartilage that protrudes from your pelvisial bone.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Variant Creutzfeldt-Jakob disease 
+Definition: Vari Creutzfeldt-Jakob disease is an inherited disorder characterized byzotropic fasilimboreposinvolanswolum).
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  polynya
+Definition: A region of open water surrounded by ice, typically in the Arctic Ocean.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hermansky-Pudlak syndrome 
+Definition: Her(HPS), also known as Cocoa syndrome, is an inherited condition that affects the development of many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  culture
+Definition: Any form of thinking, behavior practiced a nation-wide.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Heart Valve Diseases 
+Definition: Your heart has four main valves: aorta, mitral, pulmonary, and pulmonary.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  cystic fibrosis 
+Definition: Cystic fibrosis is a disease that affects many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Heart Valve Diseases 
+Definition: Your heart is made up of four main chambers, each about the size of a fist.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  intensive and extensive properties|intensive property
+Definition: See intensive property.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Herniated Disk 
+Definition: A herniated disk is a bulge in the disk.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  etchplain
+Definition: An area of semi-aridlea characterized by-products resulting from subsur.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  etchplain
+Definition: A gently sloping gently slaty gently upward by gently slathered with gently slumping ridged by glacially depositional erosion.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  E. Coli Infections 
+Definition: E. coli is a type of bacteria.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Coffin-Siris syndrome 
+Definition: O Coffin-Siris syndrome is an inherited disorder that affects the appearance of hair, skin and nail growth.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Joint Disorders 
+Definition: Your joints help you move and support your body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Liposarcoma 
+Definition: Liposarcoma is a cancer of the lipids, a type of fat.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Boyle's law
+Definition: See ideal gas law.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  E. Coli Infections 
+Definition: nan
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  commutator (electric)|commutator
+Definition: The part of an inverter circuit that supplies current to its direction of rotation.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Kelvin–Helmholtz instability
+Definition: A hypothetical state of fluid in which current flows uncontrollably viscous particles move uncontrollable kinetic energy.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  electromagnetic radiation
+Definition: See electromagnetic radiation.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agglomerate
+Definition: A collection of particles that have joined together in a single clastic mass.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Battery (electricity)|battery
+Definition: A power plant device that produces electric energy from chemical reactions.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  culture
+Definition: The way in which people act, think, and act.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  commutator (electric)|commutator
+Definition: A device that reverses the direction of an electric current.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Split hand split foot malformation autosomal recessive 
+Definition: Split hand split foot malformation autosomal recessive is a disorder that affects the development of the hands and feet.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Barraquer-Simons syndrome 
+Definition: Barraquer-Simons syndrome is a rare condition characterized by the gradual loss of fat from the upper part of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  virology
+Definition: The(w-called the scientific study), is a subdisciplinescale viruses, i.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  limestone
+Definition: A semi-crystalline sedimentarystalline igneous rock.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crossed-field amplifier
+Definition: An amplifier that produces positive output voltage.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  47,XYY syndrome 
+Definition: 47,XYY syndrome is a condition that affects male development.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Histiocytosis-lymphadenopathy plus syndrome 
+Definition: HistMn(sinus histiocytosis-lymphadenopathy (SHMLSHML
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  virology
+Definition: The branch of biology that studies viruses.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agricultural economics
+Definition: The branch of economics concerned with the production, distribution, and use of agricultural inputs and outputs.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  xenotime
+Definition: A non-uniform-specimenocrystalline strataplicate silicates which isospheresic character.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crop weed
+Definition: Any non-living organism which doesodal (e.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  cystic fibrosis 
+Definition: Cystic fibrosis (CF) is a disorder of the digestive system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Volcanic ash|ash
+Definition: A solid or semi-volcanic (i. e.g.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Histiocytosis-lymphadenopathy plus syndrome 
+Definition: Histiocytosis-lymphadenopathy plus syndrome is a condition that affects the immune system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paget disease of bone 
+Definition:  Paget disease of bone is a disorder of bone growth.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paget disease of bone 
+Definition: Protein metabolism syndrome    - congenital osteolysis   – congenital ectodermal dysentrophic osteolympholysis
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Battery (electricity)|battery
+Definition: A device that converts electric power into mechanical energy.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sexually Transmitted Diseases 
+Definition: Sexually transmitted diseases (STDrysexually transmitted a person to person.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  culture
+Definition: The set of behavior and values and actions and preferences, preferences shared among others, or most widely--influvary linguistics, are considered asymptotic, i.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  slip-off slope
+Definition: A steep-slope.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  47,XYY syndrome 
+Definition: 47,XYY syndrome is a genetic condition that affects males.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Lupus 
+Definition: Lupus is a disease of the Lupus immune system tissues.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  47,XYY syndrome 
+Definition: 47, formerly called 47,XYY syndrome, is a chromosomal condition that primarily affects boys.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sarcoidosis 
+Definition: Sarcoidosis is a disease caused by the immune system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Beare-Stevenson cutis gyrata syndrome 
+Definition: Beare-Stevenson cutis gyrata (BSG) is a condition characterized by-product (craniosynostosis (morphogenesis, asymetry).
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sarcoidosis 
+Definition: Sarcoidosis is inflammation that damages your organs.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agglomerate
+Definition: A mixture of solid particles that has been chemically bonded together by thermal interaction.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sarcoidosis 
+Definition: nan
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  E. Coli Infections 
+Definition: E. coli is a type of germ.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  limestone
+Definition: Any rock composed primarily of calcium silicate or conglomerates.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  xenotime
+Definition: A rock mineral that crystallises on rock beds or minerals silicate beds.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  limestone
+Definition: A metamorphic rock.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Variant Creutzfeldt-Jakob disease 
+Definition: variant Creutzfeldt-Jakob disease is a progressive, degenerative disorder that progressively destroys the nervous system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hairy cell leukemia 
+Definition: Hairy cell leukemia is a form of chronic lymphocytic leukemia.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hairy cell leukemia 
+Definition: Hairy cell leukemia is a type of cancer of the white blood cells.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  human impact on the environment|anthropogenic
+Definition: The alteration in an alteration inorganic matter (i.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  commutator (electric)|commutator
+Definition: A device which isochannels a commutaneous current.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  limestone
+Definition: A sedimentary rock composed mainly of calcium carbonate minerals.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Battery (electricity)|battery
+Definition: A batteries are power sources of electrical energy storage batteries.e
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Pudendal Neuralgia 
+Definition: Pudendal neuralgia is a pain or discomfort in the area innervated by the pudendal nerve.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paroxysmal extreme pain disorder 
+Definition: Paroxysmal extreme pain disorder (PEPD) is a chronic chronic inflammatory disorder that causes debilitating inflammation and inflammation-clavulnerable muscles used for years (atrophage
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Usher syndrome, type 2C 
+Definition: Usher syndrome is a group of genetic conditions characterized by hearing loss, vision loss, and intellectual disability.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Kelvin–Helmholtz instability
+Definition: A condition in which the flow of charged particles in a fluid is unstable.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Volcanic ash|ash
+Definition: A cloud of gases ejected by an active volcano or other volcanic eruption.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  virology
+Definition: The branch of biology that studies the interaction between viruses and their host cells.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  polynya
+Definition: A type of ocean water inundated by seaward ice lake or gently receding the sea ice floes.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Boyle's law
+Definition: The mathematical relationship between the amount of gas in a gas column and its pressure.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  agricultural economics
+Definition: The profession of practicing economics.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  commutator (electric)|commutator
+Definition: An instrument that draws electrical power to AC from an alternating current from an AC inverter inverter direct current.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Volcanic ash|ash
+Definition: A fine-grained, highly viscous mixture of magma ejected from a volcano.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Liposarcoma 
+Definition: Metastatic liposarcoma (MLC) is the most common type of liposarcoma.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  autoimmune lymphoproliferative syndrome 
+Definition: Autoimmune lymphoproliferative syndrome is a type of autoimmune lymphadenopathy.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sediment trap (geology)|sediment trap
+Definition: A type of sediment trap used to catch sediment that is moving in a stream or other body of water.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Duane syndrome type 1 
+Definition: Duane syndrome is an eye disorder characterized by an absence (displacement of both lateral and vertical parts of the intra)ducenlarginglass.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hermansky-Pudlak syndrome 
+Definition: Her syndrome is a bleeding disorder involving platelets (inflammation (platrophic neoplanthemoglobin
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Heart Valve Diseases 
+Definition: Your heart is the largest organ inside your body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Joint Disorders 
+Definition: Your joints are made up of connective tissue.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Joint Disorders 
+Definition: YourMuscleversationMuscleftrophic osteoarthrosisMusclesMusculopulopathyMuscular dyston
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  slip-off slope
+Definition: See bedding rock slope.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Duane syndrome type 1 
+Definition: Duane syndrome is a disorder that impairs the abducens (ocular rectify eye muscles atrophytyrax).
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  polynya
+Definition: A condition characterized by-products invertically-situents which isospheric curvature (i.g.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Liposarcoma 
+Definition: Liposarcoma is a cancer of the lipids, which are a type of fat.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Bayesian programming
+Definition: A formalization of Bayesian inference theory and computation in artificial intelligence systems.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paroxysmal extreme pain disorder 
+Definition: Parparoxysmal (PE) (PEPD) is a condition characterized byproduct of paroxidamino valencephalogram (MEN(s)).
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Duane syndrome type 1 
+Definition: Dominic Duane syndrome is a type of strabismus syndrome that affects eye movement.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  virology
+Definition: The study of viruses and their interactions with humans.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sexually Transmitted Diseases 
+Definition: Sexual transmitted diseases (STDs) are diseases caused by bacteria, viruses, or parasites.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sediment trap (geology)|sediment trap
+Definition: See sediment trap.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paroxysmal extreme pain disorder 
+Definition: Paroxysmal extreme pain disorder (PEPD) is a rare form of erythromelalgia.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Tsunamis
+Definition: Summary : Tsunamis are oceanic tsunamis.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  polynya
+Definition: An area of open water surrounded by ice.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  mucopolysaccharidosis type VII 
+Definition: Mitochondritis mucopolysaccharidosis type VII is an inherited condition characterized by the abnormal accumulation of undegraded GAGs due to the deficiency of the enzyme β-glucuronoside glucuronoside glucuronoside
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Bayesian programming
+Definition: A formalism for programming that relies on Bayesian inference and artificial neural network neural networks.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hermansky-Pudlak syndrome 
+Definition: HerPudlak syndrome is a condition that affects many body systems.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  intensive and extensive properties|intensive property
+Definition: Any property that demands special planning and management from its owners can afford to pay tax-purpose.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Bayesian programming
+Definition: A formalism for problem-solving in computer programming.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Kelvin–Helmholtz instability
+Definition: A property of a fluid that affects the movement and buoyancy.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  autoimmune lymphoproliferative syndrome 
+Definition: Autoimmune lymphoproliferative syndrome is an inherited condition in which the immune system attacks the body's cells.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Usher syndrome, type 2C 
+Definition: Usher syndrome is a condition that affects the brain and eyes.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Coffin-Siris syndrome 
+Definition: C, also known as Coffin-Siris syndrome, is a condition that affects many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hairy cell leukemia 
+Definition: Hairy cell leukemia is a type of blood cancer that primarily affects women.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Liposarcoma 
+Definition: Liposarcoma is a disease in which malignant (cancer) cells form in tissues).
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  mucopolysaccharidosis type VII 
+Definition: Mucopolysaccharidosis type VII is an inherited disorder that affects many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  mucopolysaccharidosis type VII 
+Definition: Mucopolysaccharidosis type VII (MPS VII) is an inherited condition characterized by the accumulation of undegraded GAGs due to the deficiency of the lysosomal enzyme β‐glucuronidase.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  crossed-field amplifier
+Definition: A transducer that amplifies signals in a vacuum.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Lupus 
+Definition: Lupus is a disease of the connective tissue.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Volcanic ash|ash
+Definition: nan
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Hairy cell leukemia 
+Definition: Hairy cell leukemia is a form of fast-growing leukemia.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Split hand split foot malformation autosomal recessive 
+Definition: Split hand split foot malformation is a group of disorders that affect the hands and feet.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  cystic fibrosis 
+Definition: Cystic fibrosis (CF) is a disease of the pancreproduction of proteins.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Variant Creutzfeldt-Jakob disease 
+Definition: Varinate Creutzfeldt–Jakob disease is a rare brain disorder.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Split hand split foot malformation autosomal recessive 
+Definition: Split hand split foot malformation autosomal recessive is a condition that affects the development of the hands and/or feet.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  electromagnetic radiation
+Definition: Any form of electromagnetic radiation with wavelengths shorter wavelengths shorter wavelength than visible light can absorbentertainment.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Variant Creutzfeldt-Jakob disease 
+Definition: Variant Creutzfeldt-Jakob disease is a disorder that affects the nervous system.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Kelvin–Helmholtz instability
+Definition: Another name for Kelvin–Helmholtz instability.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Tsunamis
+Definition: Summary : Tsuns are the most commonly-world phenomena.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Paget disease of bone 
+Definition: Paget disease of bone is a common bone disease characterized by abnormal osteoclasts that are large, multinucleated, and overactive and that contain paramyxovirus-like nuclear inclusions.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Beare-Stevenson cutis gyrata syndrome 
+Definition: Beare-Stevenson cutis gyrata syndrome is a condition that affects many parts of the body.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  culture
+Definition: The way in which things are done, seen, and spoken in different cultures or among different groups.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Duane syndrome type 1 
+Definition: Duane syndrome is a disorder of eye movement that primarily affects the lateral and medial rectus muscles.
+
+How fluent is this definition?","Please rate the fluency of the definition on a scale from Not at all to Very.
+If a definition's text only says 'nan', please rate it as Not fluent at all.
+
+Term:  Sediment trap (geology)|sediment trap
+Definition: See sediment trap.
+
+How fluent is this definition?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID3""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15""}","{""ImportId"":""QID16""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62""}","{""ImportId"":""QID63""}","{""ImportId"":""QID64""}","{""ImportId"":""QID65""}","{""ImportId"":""QID66""}","{""ImportId"":""QID67""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69""}","{""ImportId"":""QID70""}","{""ImportId"":""QID71""}","{""ImportId"":""QID72""}","{""ImportId"":""QID73""}","{""ImportId"":""QID74""}","{""ImportId"":""QID75""}","{""ImportId"":""QID76""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78""}","{""ImportId"":""QID79""}","{""ImportId"":""QID80""}","{""ImportId"":""QID81""}","{""ImportId"":""QID82""}","{""ImportId"":""QID83""}","{""ImportId"":""QID84""}","{""ImportId"":""QID85""}","{""ImportId"":""QID86""}","{""ImportId"":""QID87""}","{""ImportId"":""QID88""}","{""ImportId"":""QID89""}","{""ImportId"":""QID90""}","{""ImportId"":""QID91""}","{""ImportId"":""QID92""}","{""ImportId"":""QID93""}","{""ImportId"":""QID94""}","{""ImportId"":""QID95""}","{""ImportId"":""QID96""}","{""ImportId"":""QID97""}","{""ImportId"":""QID98""}","{""ImportId"":""QID99""}","{""ImportId"":""QID100""}","{""ImportId"":""QID101""}","{""ImportId"":""QID102""}","{""ImportId"":""QID103""}","{""ImportId"":""QID104""}","{""ImportId"":""QID105""}","{""ImportId"":""QID106""}","{""ImportId"":""QID107""}","{""ImportId"":""QID108""}","{""ImportId"":""QID109""}","{""ImportId"":""QID110""}","{""ImportId"":""QID111""}","{""ImportId"":""QID112""}","{""ImportId"":""QID113""}","{""ImportId"":""QID114""}","{""ImportId"":""QID115""}","{""ImportId"":""QID116""}","{""ImportId"":""QID117""}","{""ImportId"":""QID118""}","{""ImportId"":""QID119""}","{""ImportId"":""QID120""}","{""ImportId"":""QID121""}","{""ImportId"":""QID122""}","{""ImportId"":""QID123""}","{""ImportId"":""QID124""}","{""ImportId"":""QID125""}","{""ImportId"":""QID126""}","{""ImportId"":""QID127""}","{""ImportId"":""QID128""}","{""ImportId"":""QID129""}","{""ImportId"":""QID130""}","{""ImportId"":""QID131""}","{""ImportId"":""QID132""}","{""ImportId"":""QID133""}","{""ImportId"":""QID134""}","{""ImportId"":""QID135""}","{""ImportId"":""QID136""}","{""ImportId"":""QID137""}","{""ImportId"":""QID138""}","{""ImportId"":""QID139""}","{""ImportId"":""QID140""}","{""ImportId"":""QID141""}","{""ImportId"":""QID142""}","{""ImportId"":""QID143""}","{""ImportId"":""QID144""}","{""ImportId"":""QID145""}","{""ImportId"":""QID146""}","{""ImportId"":""QID147""}","{""ImportId"":""QID148""}","{""ImportId"":""QID149""}","{""ImportId"":""QID150""}","{""ImportId"":""QID151""}","{""ImportId"":""QID152""}","{""ImportId"":""QID153""}","{""ImportId"":""QID154""}","{""ImportId"":""QID155""}","{""ImportId"":""QID156""}","{""ImportId"":""QID157""}","{""ImportId"":""QID158""}","{""ImportId"":""QID159""}","{""ImportId"":""QID160""}","{""ImportId"":""QID161""}","{""ImportId"":""QID162""}","{""ImportId"":""QID163""}","{""ImportId"":""QID164""}","{""ImportId"":""QID165""}","{""ImportId"":""QID166""}","{""ImportId"":""QID167""}","{""ImportId"":""QID168""}","{""ImportId"":""QID169""}","{""ImportId"":""QID170""}","{""ImportId"":""QID171""}","{""ImportId"":""QID172""}","{""ImportId"":""QID173""}","{""ImportId"":""QID174""}","{""ImportId"":""QID175""}","{""ImportId"":""QID176""}","{""ImportId"":""QID177""}","{""ImportId"":""QID178""}","{""ImportId"":""QID179""}","{""ImportId"":""QID180""}","{""ImportId"":""QID181""}","{""ImportId"":""QID182""}","{""ImportId"":""QID183""}","{""ImportId"":""QID184""}","{""ImportId"":""QID185""}","{""ImportId"":""QID186""}","{""ImportId"":""QID187""}","{""ImportId"":""QID188""}","{""ImportId"":""QID189""}","{""ImportId"":""QID190""}","{""ImportId"":""QID191""}","{""ImportId"":""QID192""}","{""ImportId"":""QID193""}","{""ImportId"":""QID194""}","{""ImportId"":""QID195""}","{""ImportId"":""QID196""}","{""ImportId"":""QID197""}","{""ImportId"":""QID198""}","{""ImportId"":""QID199""}","{""ImportId"":""QID200""}","{""ImportId"":""QID201""}","{""ImportId"":""QID202""}","{""ImportId"":""QID203""}","{""ImportId"":""QID204""}","{""ImportId"":""QID205""}","{""ImportId"":""QID206""}","{""ImportId"":""QID207""}","{""ImportId"":""QID208""}","{""ImportId"":""QID209""}","{""ImportId"":""QID210""}","{""ImportId"":""QID211""}","{""ImportId"":""QID212""}","{""ImportId"":""QID213""}","{""ImportId"":""QID214""}","{""ImportId"":""QID215""}","{""ImportId"":""QID216""}","{""ImportId"":""QID217""}","{""ImportId"":""QID218""}","{""ImportId"":""QID219""}","{""ImportId"":""QID220""}","{""ImportId"":""QID221""}","{""ImportId"":""QID222""}","{""ImportId"":""QID223""}","{""ImportId"":""QID224""}","{""ImportId"":""QID225""}","{""ImportId"":""QID226""}","{""ImportId"":""QID227""}","{""ImportId"":""QID228""}","{""ImportId"":""QID229""}","{""ImportId"":""QID230""}","{""ImportId"":""QID231""}","{""ImportId"":""QID232""}","{""ImportId"":""QID233""}","{""ImportId"":""QID234""}","{""ImportId"":""QID235""}","{""ImportId"":""QID236""}","{""ImportId"":""QID237""}","{""ImportId"":""QID238""}","{""ImportId"":""QID239""}","{""ImportId"":""QID240""}","{""ImportId"":""QID241""}","{""ImportId"":""QID242""}","{""ImportId"":""QID243""}","{""ImportId"":""QID244""}","{""ImportId"":""QID245""}","{""ImportId"":""QID246""}","{""ImportId"":""QID247""}","{""ImportId"":""QID248""}","{""ImportId"":""QID249""}","{""ImportId"":""QID250""}","{""ImportId"":""QID251""}","{""ImportId"":""QID252""}","{""ImportId"":""QID253""}","{""ImportId"":""QID254""}","{""ImportId"":""QID255""}","{""ImportId"":""QID256""}","{""ImportId"":""QID257""}","{""ImportId"":""QID258""}","{""ImportId"":""QID259""}","{""ImportId"":""QID260""}","{""ImportId"":""QID261""}","{""ImportId"":""QID262""}","{""ImportId"":""QID263""}","{""ImportId"":""QID264""}","{""ImportId"":""QID265""}","{""ImportId"":""QID266""}","{""ImportId"":""QID267""}","{""ImportId"":""QID268""}","{""ImportId"":""QID269""}","{""ImportId"":""QID270""}","{""ImportId"":""QID271""}","{""ImportId"":""QID272""}","{""ImportId"":""QID273""}","{""ImportId"":""QID274""}","{""ImportId"":""QID275""}","{""ImportId"":""QID276""}","{""ImportId"":""QID277""}","{""ImportId"":""QID278""}","{""ImportId"":""QID279""}","{""ImportId"":""QID280""}","{""ImportId"":""QID281""}","{""ImportId"":""QID282""}","{""ImportId"":""QID283""}","{""ImportId"":""QID284""}","{""ImportId"":""QID285""}","{""ImportId"":""QID286""}","{""ImportId"":""QID287""}","{""ImportId"":""QID288""}","{""ImportId"":""QID289""}","{""ImportId"":""QID290""}","{""ImportId"":""QID291""}","{""ImportId"":""QID292""}","{""ImportId"":""QID293""}","{""ImportId"":""QID294""}","{""ImportId"":""QID295""}","{""ImportId"":""QID296""}","{""ImportId"":""QID297""}","{""ImportId"":""QID298""}","{""ImportId"":""QID299""}","{""ImportId"":""QID300""}","{""ImportId"":""QID301""}","{""ImportId"":""QID302""}","{""ImportId"":""QID303""}","{""ImportId"":""QID304""}"
+2024-01-19 05:11:09,2024-01-19 05:53:09,0,100,2519,1,2024-01-19 05:53:10,R_4UgBlwrFNMD89Fk,anonymous,EN,002,1,2,4,2,4,3,2,3,3,2,4,3,2,3,4,4,3,2,2,3,4,2,2,3,3,1,3,4,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-19 06:06:56,2024-01-19 06:13:39,0,100,402,1,2024-01-19 06:13:39,R_1gN7bogt8gJScEH,anonymous,EN,002,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,3,4,3,4,4,4,1,4,2,4,4,4,4,2,1,4,1,4,1,2,4,4,1,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-19 07:20:17,2024-01-19 07:27:44,0,100,446,1,2024-01-19 07:27:45,R_4NPQ5xlcfrzsLdx,anonymous,EN,002,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,4,4,4,4,2,4,2,3,3,4,1,4,1,2,1,4,4,4,1,4,2,4,3,4,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-19 07:34:41,2024-01-19 07:51:23,0,100,1002,1,2024-01-19 07:51:24,R_2t7DyEdYu9n8Ohb,anonymous,EN,002,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,3,2,4,3,1,4,4,1,4,2,3,4,3,4,4,4,3,1,3,3,1,4,1,1,4,2,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-23 04:16:34,2024-01-23 07:23:39,0,100,11225,1,2024-01-23 07:23:41,R_4DZOPBeX8jlgw7u,anonymous,EN,001,1,1,4,1,4,2,1,3,2,3,4,3,4,4,3,3,3,2,1,3,4,2,3,4,3,2,4,4,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 03:34:03,2024-01-24 03:41:46,0,100,463,1,2024-01-24 03:41:47,R_1cpe0laWrwUBKff,anonymous,EN,009,1,2,4,3,4,2,2,2,2,3,4,4,4,4,3,4,4,3,3,4,4,2,3,4,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 03:43:05,2024-01-24 03:49:11,0,100,365,1,2024-01-24 03:49:11,R_3rtWVtjArVnX7Sp,anonymous,EN,009,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,4,3,4,2,4,2,4,1,4,3,4,4,4,4,3,3,4,2,4,3,4,4,4,2,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 03:52:30,2024-01-24 03:59:20,0,100,409,1,2024-01-24 03:59:20,R_2PCfxKNyZ9cOwxD,anonymous,EN,009,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,4,4,4,4,2,4,2,4,3,4,3,4,2,3,2,4,4,4,3,2,2,4,3,4,1,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 05:17:16,2024-01-24 05:22:56,0,100,340,1,2024-01-24 05:22:57,R_4EafAv9V8kGhhGi,anonymous,EN,009,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,2,3,3,4,3,2,4,4,4,2,3,4,3,4,4,4,3,2,4,2,3,3,3,2,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 05:23:04,2024-01-24 05:28:44,0,100,340,1,2024-01-24 05:28:45,R_52ptOjVHiQkA0oh,anonymous,EN,009,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,4,3,4,2,3,4,1,3,2,1,3,3,3,2,4,4,3,4,4,1,4,4,1,4,3,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 05:28:55,2024-01-24 05:34:47,0,100,352,1,2024-01-24 05:34:48,R_2ptErdiPfc4vfPd,anonymous,EN,009,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,2,4,4,3,3,3,3,3,4,2,4,3,2,4,4,3,2,3,4,2,1,4,4,2,4,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 05:35:00,2024-01-24 05:39:24,0,100,264,1,2024-01-24 05:39:24,R_2Owq4rB1eyAx2yZ,anonymous,EN,009,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,3,4,2,1,4,3,4,4,4,1,4,2,3,4,4,4,4,4,4,1,2,4,4,1,4,4,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 05:39:31,2024-01-24 05:43:49,0,100,258,1,2024-01-24 05:43:50,R_2RfqaRzi5zMRBNh,anonymous,EN,009,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,4,4,1,4,2,2,4,4,3,4,4,1,4,4,1,4,4,3,4,3,4,4,3,3,4,2,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 05:43:57,2024-01-24 05:48:10,0,100,253,1,2024-01-24 05:48:11,R_6tzBexO1trFlDnZ,anonymous,EN,009,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,4,2,4,4,1,4,4,4,4,1,2,4,4,1,3,2,1,4,4,2,4,4,4,3,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 05:48:23,2024-01-24 05:53:06,0,100,282,1,2024-01-24 05:53:07,R_3DNSUujQ9wlcmJj,anonymous,EN,009,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3,2,4,4,4,4,3,4,2,4,3,4,4,1,4,4,3,3,4,1,4,4,2,4,4,4,4,3
+2024-01-17 08:22:05,2024-01-17 09:07:00,0,1,2694,0,2024-01-24 09:07:03,R_2ghylr9Zvviqbj3,anonymous,EN,TESTER17012024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 09:35:25,2024-01-24 09:45:31,0,100,605,1,2024-01-24 09:45:31,R_2ckJbhFNS7AdLMK,anonymous,EN,002,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,4,4,4,3,4,2,4,2,4,2,3,2,4,2,3,1,4,4,4,2,4,2,4,3,4,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 09:45:37,2024-01-24 09:55:04,0,100,566,1,2024-01-24 09:55:04,R_5I5XD36P2J6XCnK,anonymous,EN,002,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,2,2,4,3,2,4,4,1,2,2,1,4,3,4,3,4,4,1,4,2,2,4,1,2,4,3,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 09:55:08,2024-01-24 10:08:56,0,100,828,1,2024-01-24 10:08:58,R_4Cr7FRmRdyhl1xA,anonymous,EN,002,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,4,2,4,1,4,4,2,4,1,2,3,1,3,1,3,2,1,4,4,2,4,4,1,4,2,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 10:09:01,2024-01-24 10:17:24,0,100,503,1,2024-01-24 10:17:25,R_3zxaPmRMoJevywa,anonymous,EN,002,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,1,4,4,4,1,2,4,1,4,2,4,4,1,3,2,2,2,1,4,3,1,2,4,3,4,4,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 10:17:30,2024-01-24 10:36:29,0,100,1139,1,2024-01-24 10:36:30,R_4OJzId1KIEkPpMo,anonymous,EN,002,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,1,3,4,2,2,4,1,4,1,1,4,4,1,4,4,3,4,4,4,2,4,4,4,2,4,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 10:36:38,2024-01-24 10:40:02,0,100,204,1,2024-01-24 10:40:03,R_82IKUwWm8x18KHj,anonymous,EN,002,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,1,4,4,2,2,4,2,4,1,1,4,4,1,4,4,3,4,4,4,2,4,4,4,2,4,4,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 10:40:06,2024-01-24 10:44:33,0,100,267,1,2024-01-24 10:44:34,R_1nESSEGMgEtd7Jn,anonymous,EN,002,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,4,4,2,4,4,3,1,4,2,4,3,4,2,4,1,2,4,4,1,4,2,4,1,4,4,4,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 10:44:37,2024-01-24 10:53:35,0,100,538,1,2024-01-24 10:53:36,R_2tMdjgmHni3Wrfj,anonymous,EN,002,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,3,4,4,4,1,4,4,4,2,4,3,2,1,1,1,1,4,3,4,4,4,3,4,4,1,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-24 10:53:39,2024-01-24 10:59:13,0,100,334,1,2024-01-24 10:59:14,R_3R2fa8CQyg2g5fD,anonymous,EN,002,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,4,4,4,4,4,3,3,3,4,4,4,3,1,4,4,4,4,4,2,4,1,1,4,2,4,4,1
+2024-01-26 04:43:46,2024-01-26 04:54:08,0,100,622,1,2024-01-26 04:54:09,R_73eDFRIlfkP2UkY,anonymous,EN,003,1,2,4,2,4,2,3,4,3,2,4,4,4,4,4,4,4,3,2,4,4,1,3,4,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-26 04:59:50,2024-01-26 05:02:52,0,100,182,1,2024-01-26 05:02:52,R_271EGciYEEhWLDk,anonymous,EN,003,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,3,3,4,2,4,1,4,1,4,4,4,4,3,4,2,1,4,1,4,4,4,4,4,1,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-26 06:05:51,2024-01-26 06:08:57,0,100,186,1,2024-01-26 06:08:58,R_2tzbYS6OgDCDUGJ,anonymous,EN,003,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,3,4,4,4,4,1,4,2,4,2,4,2,4,1,1,4,4,4,4,2,3,1,3,4,4,1,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-26 06:13:13,2024-01-26 06:16:08,0,100,175,1,2024-01-26 06:16:09,R_7pf8tCDnnjMSzEl,anonymous,EN,003,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,2,2,3,4,3,4,4,4,4,1,4,2,3,4,4,4,3,4,4,2,4,4,4,2,4,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-23 07:23:47,2024-01-30 04:47:56,0,100,595449,1,2024-01-30 04:47:57,R_2cotSRMp5DTlN8B,anonymous,EN,001,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,3,3,3,3,3,4,1,3,2,3,3,3,3,2,2,3,1,3,1,3,3,3,1,4,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 05:08:03,2024-01-30 05:53:27,0,100,2723,1,2024-01-30 05:53:28,R_5Non8z7bg9EdhIt,anonymous,EN,001,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,3,2,3,3,4,1,3,1,3,2,2,2,3,2,2,1,3,4,3,2,3,2,3,2,3,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-23 04:13:50,2024-01-23 07:24:15,0,50,11424,0,2024-01-30 07:24:31,R_7i89bocvAbcNhwB,anonymous,EN,001,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 08:06:24,2024-01-30 08:30:18,0,100,1433,1,2024-01-30 08:30:19,R_2fJcROBLN7kGbwV,anonymous,EN,001,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,2,3,1,3,2,3,1,1,2,1,4,3,3,4,3,3,1,3,2,1,2,1,1,3,3,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 08:30:29,2024-01-30 08:53:56,0,100,1406,1,2024-01-30 08:53:57,R_1NDM7T00H9MQ4jq,anonymous,EN,001,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,3,3,1,2,3,1,3,2,1,4,1,2,1,2,3,1,2,1,1,4,3,1,4,1,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 09:15:01,2024-01-30 09:20:22,0,100,320,1,2024-01-30 09:20:22,R_5dUE7A3jIXySScN,anonymous,EN,010,1,2,4,2,4,1,2,2,2,2,4,3,3,3,3,4,4,2,1,3,4,3,4,4,4,3,4,3,3,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 09:20:24,2024-01-30 09:24:30,0,100,246,1,2024-01-30 09:24:31,R_6qHHjy3WTAXPzAv,anonymous,EN,010,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,4,2,4,3,4,3,4,1,4,3,4,4,4,4,1,2,4,1,4,2,3,4,4,2,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 09:34:38,2024-01-30 09:39:02,0,100,264,1,2024-01-30 09:39:03,R_5e99Quli1NCDVrm,anonymous,EN,010,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,3,4,4,4,4,2,3,2,4,3,3,3,3,2,2,2,4,3,4,2,3,2,3,3,3,1,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 08:54:00,2024-01-30 11:28:38,0,100,9278,1,2024-01-30 11:28:40,R_4F3z6We3MGerKqS,anonymous,EN,001,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,2,3,3,3,1,2,2,2,3,2,3,4,1,3,2,2,1,1,2,1,1,2,2,1,3,2,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 11:28:41,2024-01-30 12:07:15,0,100,2313,1,2024-01-30 12:07:16,R_3DtAydDGXTvBWIF,anonymous,EN,001,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,1,3,2,1,3,3,2,2,1,1,2,2,1,3,3,2,3,4,4,1,2,2,3,1,3,4,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 12:07:18,2024-01-30 12:30:51,0,100,1413,1,2024-01-30 12:30:52,R_6q6aI6QeSySb3G1,anonymous,EN,001,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,3,3,2,3,2,2,1,4,2,4,3,1,2,3,1,2,3,2,1,3,3,3,1,1,3,2,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 12:30:54,2024-01-30 12:52:05,0,100,1271,1,2024-01-30 12:52:05,R_84Coz0as03dlqDG,anonymous,EN,001,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,4,3,3,1,2,3,3,3,3,2,2,2,2,1,1,2,2,3,3,2,2,3,3,1,3,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 12:52:07,2024-01-30 13:49:58,0,100,3470,1,2024-01-30 13:49:59,R_1z6DpwSDA5OOSY4,anonymous,EN,001,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,3,2,4,3,2,3,2,3,4,3,3,1,2,4,2,2,4,1,3,1,1,4,3,3,3,1
+2024-01-31 04:04:01,2024-01-31 04:39:29,0,100,2128,1,2024-01-31 04:39:30,R_596bojj3oIDg4sR,anonymous,EN,007,1,2,4,3,4,2,2,3,2,3,4,3,3,4,2,3,3,2,1,3,4,1,3,4,3,3,4,4,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-31 04:39:37,2024-01-31 04:52:25,0,100,767,1,2024-01-31 04:52:25,R_2mCz8LD7qVZDeIF,anonymous,EN,007,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,2,4,3,4,3,4,1,4,4,4,4,4,4,1,2,4,1,4,2,4,4,3,2,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-31 04:52:29,2024-01-31 05:02:02,0,100,573,1,2024-01-31 05:02:03,R_5Dqj5sBE5YlHzKh,anonymous,EN,007,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,3,4,4,4,4,2,4,2,4,2,4,3,4,2,2,2,4,4,4,3,2,2,4,2,4,1,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-31 02:40:20,2024-02-01 02:21:38,0,100,85278,1,2024-02-01 02:21:39,R_6PYTD5HDUIF021U,anonymous,EN,004,1,2,4,2,3,1,1,1,2,2,4,3,4,4,4,4,4,3,1,4,4,1,4,4,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-01 02:22:00,2024-02-01 02:26:28,0,100,267,1,2024-02-01 02:26:28,R_8aXh8frrzPMc7zh,anonymous,EN,004,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,3,2,1,2,3,4,1,2,4,3,4,4,3,1,1,4,1,4,1,1,4,4,1,4,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-01 02:26:45,2024-02-01 02:31:17,0,100,272,1,2024-02-01 02:31:18,R_4PA1x6b3pJUIsjT,anonymous,EN,004,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,2,3,4,4,1,4,1,4,2,4,3,3,1,1,1,3,4,3,3,3,1,4,2,3,1,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-01 02:31:28,2024-02-01 02:37:46,0,100,377,1,2024-02-01 02:37:47,R_2pPvRRJthbqbfMD,anonymous,EN,004,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,3,2,3,3,2,2,4,3,1,2,4,3,3,4,3,4,1,3,1,1,2,4,1,3,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-02 13:20:56,2024-02-02 13:33:03,0,100,727,1,2024-02-02 13:33:04,R_2kNc49xP7lp0sSw,anonymous,EN,008,1,3,4,4,4,2,2,3,2,3,4,3,4,4,3,4,3,2,1,3,4,1,4,4,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-02 13:33:08,2024-02-02 13:39:18,0,100,369,1,2024-02-02 13:39:19,R_4FRkTMS9CDSshXq,anonymous,EN,008,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,4,3,4,3,4,3,4,1,4,4,4,4,4,4,2,2,4,1,4,4,4,4,4,2,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-03 14:42:37,2024-02-03 14:46:54,0,100,257,1,2024-02-03 14:46:55,R_8sdKfBBLXV01GKh,anonymous,EN,008,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,4,4,4,4,4,2,4,2,4,3,4,4,3,3,3,4,4,4,4,4,3,2,4,3,4,1,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-03 14:47:07,2024-02-03 14:50:40,0,100,212,1,2024-02-03 14:50:41,R_7PLZ5QL2kl4PTkN,anonymous,EN,008,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,3,2,3,4,4,3,4,4,4,2,4,4,3,4,4,4,4,4,4,3,3,3,4,3,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-05 06:50:22,2024-02-05 07:07:08,0,100,1005,1,2024-02-05 07:07:09,R_3CBSyS3zBxWF3y0,anonymous,EN,006,1,1,4,2,4,1,1,2,1,1,4,2,2,3,2,3,2,2,1,2,4,1,2,3,3,3,3,3,4,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-05 07:07:17,2024-02-05 07:15:35,0,100,497,1,2024-02-05 07:15:35,R_6gRiyhh2YAyQGEF,anonymous,EN,006,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,4,2,3,1,4,1,3,1,3,2,3,3,4,4,1,1,4,1,3,2,4,4,3,1,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-05 07:16:21,2024-02-05 07:25:07,0,100,525,1,2024-02-05 07:25:08,R_4ivZWgfKbS4b16x,anonymous,EN,006,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,2,3,4,3,4,1,4,1,3,2,3,3,4,1,1,2,4,3,4,3,2,1,3,2,4,1,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-05 07:25:23,2024-02-05 07:31:23,0,100,359,1,2024-02-05 07:31:23,R_5S90wQrDmbFeE4F,anonymous,EN,006,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,2,2,4,2,1,4,3,2,1,2,4,2,3,3,4,2,2,3,2,2,3,2,2,4,3,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-30 05:53:33,2024-01-30 08:05:22,0,1,7908,0,2024-02-06 08:05:25,R_8eRWJcgCTRXVRow,anonymous,EN,001,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-31 02:39:26,2024-01-31 02:43:09,0,1,222,0,2024-02-07 02:43:16,R_5TnIARHyrGqfvuh,anonymous,EN,004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-01-31 06:40:28,2024-01-31 08:02:12,0,33,4904,0,2024-02-07 08:02:18,R_7THqnNzjtJcZ369,anonymous,EN,007,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,3,2,4,4,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 01:48:01,2024-02-08 01:53:03,0,100,302,1,2024-02-08 01:53:04,R_6iUzJyq4jgYR2vw,anonymous,EN,010,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,3,2,3,4,4,2,4,3,3,2,2,4,2,3,4,4,4,3,2,2,2,3,2,2,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 01:53:06,2024-02-08 01:57:45,0,100,279,1,2024-02-08 01:57:45,R_3i4ofDkpZsNkBEG,anonymous,EN,010,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,3,2,4,2,3,4,1,2,2,1,4,2,2,2,4,3,3,3,3,1,4,4,1,4,2,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 01:59:39,2024-02-08 02:04:22,0,100,283,1,2024-02-08 02:04:23,R_51beQf9k1Eqvxfg,anonymous,EN,010,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,4,3,3,2,3,3,2,4,2,4,4,2,3,3,1,1,2,3,2,1,3,4,1,4,2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 02:04:24,2024-02-08 02:07:48,0,100,203,1,2024-02-08 02:07:48,R_8fZS19XQJ82sHSg,anonymous,EN,010,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,2,3,2,1,3,2,3,4,2,1,3,2,2,4,3,2,3,4,4,1,3,3,3,1,4,4,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 02:07:49,2024-02-08 02:14:00,0,100,371,1,2024-02-08 02:14:01,R_2cqlzQKdrTWOsDf,anonymous,EN,010,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,4,3,1,3,1,1,2,3,3,4,3,2,4,4,1,3,4,3,3,3,4,4,2,2,3,2,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 02:14:03,2024-02-08 02:19:46,0,100,342,1,2024-02-08 02:19:46,R_6qfxa6xwwyglyAp,anonymous,EN,010,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,4,2,4,3,2,4,4,4,3,2,2,4,4,1,2,2,1,4,4,2,3,3,4,2,4,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 02:19:48,2024-02-08 02:52:06,0,100,1938,1,2024-02-08 02:52:07,R_5DKLEwbfoI8v2sF,anonymous,EN,010,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,3,4,4,3,4,4,2,4,4,3,3,1,4,4,4,2,4,1,4,2,2,3,4,3,4,2
+2024-02-08 13:37:41,2024-02-08 13:46:03,0,100,502,1,2024-02-08 13:46:04,R_27UQvLnfqHGSGq6,anonymous,EN,005,1,1,4,3,4,2,1,1,2,1,4,2,3,4,1,4,4,3,1,3,4,2,3,4,4,4,4,4,4,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 13:47:07,2024-02-08 13:53:56,0,100,408,1,2024-02-08 13:53:57,R_2vSp6zb4sn6KQj7,anonymous,EN,005,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,3,3,3,2,4,3,4,1,4,3,4,3,4,4,2,2,4,1,3,3,4,4,4,2,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 13:54:02,2024-02-08 14:05:04,0,100,661,1,2024-02-08 14:05:04,R_7lhiHel6Ghusx3S,anonymous,EN,005,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,3,3,4,4,4,1,4,2,3,3,3,3,2,1,1,2,4,4,4,3,2,1,3,2,4,1,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-08 14:05:08,2024-02-08 14:16:21,0,100,673,1,2024-02-08 14:16:22,R_2ahTk0dzPGzB1y0,anonymous,EN,005,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,3,2,2,3,4,3,4,4,4,2,2,3,3,4,4,4,3,2,3,2,3,2,3,2,4,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-02-09 07:23:04,2024-02-09 07:27:17,0,100,253,1,2024-02-09 07:27:17,R_8sgYQTZaUslZB51,anonymous,EN,007,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,3,4,4,3,4,4,3,4,2,3,4,3,4,4,4,4,2,4,2,2,4,3,2,4,3,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

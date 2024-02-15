@@ -1,0 +1,27 @@
+Dear NAME,
+
+Thank you for agreeing to participate in our evaluation study. We will now proceed to the actual task.
+
+Design
+As you know, the goal of this task is to rate 300 items. The entire study has been implemented as a survey in Qualtrics, with 10 lists of 30 items. The idea is that you fill in the survey 10 times, one time for each list of items. (With the opportunity to take breaks in between.)
+
+Procedure
+1. You can start the task by clicking on the link to the study, at the bottom of this message.
+2. A screen with two questions will appear:
+ a. You will be asked for a participant ID. Please fill in your ID: IDENTIFIER.
+ b. You will be asked what set of items you would like to work on. Please complete the task in order. That is: starting with list number 1, and then moving on to list number 2, and so on.
+3. The next page provides the full instructions for the task. Please read them carefully.
+4. Proceed to rate the 30 items on the list that you have selected.
+5. If you are done with the current list of items, you may continue with the next list. This does require you to visit the link to the study again, and to fill in the participant ID again.
+6. If you are done with the full task, please send me a message and I will order the gift card based on your instructions. (I.e. where to buy it and where to send it.)
+
+Link to the study:
+https://tilburghumanities.eu.qualtrics.com/jfe/form/SV_3eEXtpGs6UZ5XpQ
+
+Final note
+I am not sure if Qualtrics allows you to carry out the same study twice. If not, you can use a private browser window. I have set up the study such that no IP address or any other personal information will be collected.
+
+Thanks again for your participation! Please let me know if you have any further questions.
+
+Best wishes,
+Emiel

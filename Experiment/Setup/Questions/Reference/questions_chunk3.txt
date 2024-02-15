@@ -1,0 +1,600 @@
+[[AdvancedFormat]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:58b65aa92e6a4dcf9de3de40f2e7045c]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  culture</p>
+<p><b>Definition:</b> The way in which people think, act, and think about the world around them.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:08ecccfc403c4349870358de6847a177]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Heart Valve Diseases </p>
+<p><b>Definition:</b> YourHeart valve diseases are serious heart problems that restrict blood flow to developement.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:b3c3a4b3e94447bc8382f5271cc3b5d6]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  cystic fibrosis </p>
+<p><b>Definition:</b> Cystic fibrosis is a chronic disease that damages your digestive tract (thromesophageal mucosa.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:7a63cdd1f04848abbfc4aa41a3a47aa0]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Boyle's law</p>
+<p><b>Definition:</b> The mathematical relation between temperature and pressure.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:b320098f3e664d49addb7dbddc8019e4]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  virology</p>
+<p><b>Definition:</b> The branch of biology that studies the molecular and genetic structures of viruses and their interactions with host cells.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:4c645b68216d47bba08dc40fbcd05dce]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  autoimmune lymphoproliferative syndrome </p>
+<p><b>Definition:</b> Autoimmune lymphoproliferative syndrome is a condition that affects the immune system.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:0867620f805e407f9fb8d2b1e054ee0c]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Barraquer-Simons syndrome </p>
+<p><b>Definition:</b> Barraquer-Simons syndrome is a rare condition characterized by the gradual loss of subcutaneous fat, which usually starts in the face, extends downward to the waist, but spares the legs.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:d070c81dfc1146408ba015a59b44fdc7]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Pudendal Neuralgia </p>
+<p><b>Definition:</b> Pudendal neuralgia (PWN (Pudiangia is a condition in contrast topl.)</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:06da89d36a614d269bf303801b809ed7]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  xenotime</p>
+<p><b>Definition:</b> A type of igneous rock that is composed mainly of zirconium and feldspar.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:b3900dfc69ef40d4a912d9611db69e4e]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  agglomerate</p>
+<p><b>Definition:</b> A conglomerated conglomerate of smaller pieces of different or relating to anaerosphytes.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:1092420c33714a82ab6d9507c82e2f52]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Pudendal Neuralgia </p>
+<p><b>Definition:</b> Pudendal neuralgia is a condition that causes pain or discomfort in the area of the groin, the part of the body that controls movement.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:2053a3c5bd7e4cfd9717a0ca3e3d985d]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Paget disease of bone </p>
+<p><b>Definition:</b> Paget disease of the bone is an inherited disorder characterized by abnormally symmetric appearance ofebolumbarithmetastrophies.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:f0b30833e18c42bf81935a8399d3b984]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Sarcoidosis </p>
+<p><b>Definition:</b> Sarcoidosis (Sarcody) is a type of lung disease.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:eb29f3a1d4a049aa9d412bcfc5b24954]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Tsunamis</p>
+<p><b>Definition:</b> Summary : A tsunami is a deadly natural disaster.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:ec58754314f34db191579885e1bea104]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  agglomerate</p>
+<p><b>Definition:</b> A lump of particles or liquid mixture organized into units.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:4806bebb578e49bc8b4b13a6a5ab66cb]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Usher syndrome, type 2C </p>
+<p><b>Definition:</b> Usher syndrome is a group of genetic disorders that affect the nervous system and nervous system plays a part of nerve cells, spinal cord movement and involuntary muscle tone, muscle tone (muscleftal muscle tone and rhythmicromatolysis muscle tone</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:88a07419bf5941b4930123d20ada499d]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  human impact on the environment|anthropogenic</p>
+<p><b>Definition:</b> Any form of human activity on an individual or harm to an anthropogenic (anthropogens.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:9666edc1bc22441eb05c139796e6c95d]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  etchplain</p>
+<p><b>Definition:</b> See etchplain.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:93a9e444bcf842938b23f73a0e4215d3]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Volcanic ash|ash</p>
+<p><b>Definition:</b> A type of fine-grained volcanic material that is released into the atmosphere when a volcano erupts.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:4eb9284bc5f24748af81cebdc587acc0]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Lupus </p>
+<p><b>Definition:</b> Lupus is a chronic connective tissue disease with a varied clinical phenotype.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:53156e9a555045059c72a8c10f62786f]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Boyle's law</p>
+<p><b>Definition:</b> The mathematical relationship between atmospheric pressure and greenhouse gas emissions.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:3efc9c280de0459f93597fb28daea818]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Tsunamis</p>
+<p><b>Definition:</b> Summary- A tsunami is a type of earthquake.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:4b24f6ddc31845efb109d30e2bdb3883]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  agricultural economics</p>
+<p><b>Definition:</b> The branch of economics that studies farming, especially farming community agriculture supply and demand to consumer habits and selling crop production, farming producers, and livestock animals.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:5a09779db96a424c8fac8fe7996a25c1]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  47,XYY syndrome </p>
+<p><b>Definition:</b> 47-XYY (X-ray-Y-X) syndrome is a condition that occurs when therebinarithymodigonal gene isomechaninositheses).</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:452f8afe4902416fb0d5de6035a69941]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Coffin-Siris syndrome </p>
+<p><b>Definition:</b> C<br>Coffin-Siris syndrome is a condition characterized by short stature (dwarfism), coarse facial features, sparse scalp hair, hirsutism, hypoplastic nail in the fifth digit, and intellectual disability.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:33f9833b9e88418686cd4c754bba3dc0]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Split hand split foot malformation autosomal recessive </p>
+<p><b>Definition:</b> Split hand split foot malformation is a congenital malformation that results from birth defects in one or both of the time-looking bones (Autosophagus.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:3c89f54a788b4568819ed572c77d1655]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  human impact on the environment|anthropogenic</p>
+<p><b>Definition:</b> impact on the environment that results from human activities.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:384a4eacc82a48018f2ddc7b4a5a9148]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Salivary Gland Disorders </p>
+<p><b>Definition:</b> nan</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:c028326c1180443f90a1a6a6d40d86af]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Salivary Gland Disorders </p>
+<p><b>Definition:</b> Your salivary glands are two small glands in your mouth, each about the size of a fist.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:8a419654728c4aa2908db5485cb21fbc]]
+<p>Please rate the fluency of the definition on a scale from <b>Not at all</b> to <b>Very</b>. 
+If a definition's text only says 'nan', please rate it as Not fluent at all.</p>
+<hr>
+<p><b>Term:</b>  Adrenal Gland Cancer </p>
+<p><b>Definition:</b> Your adrenal gland is part of your adrenal gland.</p>
+<hr>
+<p>How fluent is this definition?</p>
+[[AdvancedChoices]]
+[[Choice:1]]
+Not at all
+[[Choice:2]]
+⁢
+[[Choice:3]]
+⁢
+[[Choice:4]]
+Very
