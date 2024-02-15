@@ -1,0 +1,15 @@
+Evaluating the fluency of automatically generated definitions
+
+We invite you to take part in a study on automatic definition generation, carried out by researchers from Tilburg University. Your task is to read 300 definitions which have been produced by different automatic systems, and to judge the fluency of those texts. This enables us to understand which system is best.
+
+Expected duration: there are 300 definitions, split up into 10 batches of 30 definitions. Since the definitions are short, and fluency is a relatively superficial property (no need to check for factuality), we expect this to take about 2 hours in total (or about 12 minutes per batch). This makes it possible to rate the definitions in between jobs (e.g. while your code is compiling).
+
+We are not aware of any negative consequences to your participation in this task, but please be aware that there may be occasional errors in the generated texts. You will be compensated for your efforts through a €30 gift card.
+
+We remind you that participation is voluntary. You have the right to decline to participate and withdraw from the research once participation has begun, without any negative consequences, and without providing any explanation.
+
+We will not collect any personal data, beyond your general qualification to participate ("a PhD candidate at X university"). We aim to publish the data and results of this study, making your responses publicly available for future research for an indefinite period of time. However, we will ensure that any potentially identifying information (including your IP address, platform ID) will be removed from the data before it is published. Thus, everything will be fully anonymous.
+
+If you have any questions about this study, feel free to contact Emiel Van Miltenburg (C.W.J.vanMiltenburg@tilburguniversity.edu).
+
+This study was approved by the Research Ethics and Data Management Committee (REDC) at Tilburg University (reference: REDC2019.40e). If you have any remarks or complaints regarding this research, you may also contact the “Research Ethics and Data Management Committee” of Tilburg School of Humanities and Digital Sciences via tshd.redc@tilburguniversity.edu
