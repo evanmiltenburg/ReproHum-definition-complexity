@@ -1,0 +1,621 @@
+---
+title: "ReproHum Analysis Report"
+author: ""
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  html_document: 
+    
+    toc: true
+    highlight: pygments
+    theme: cosmo
+  pdf_document:
+    latex_engine: xelatex
+    toc: true
+    number_sections: true
+    keep_tex: true
+    highlight: tango
+The analysis is in two steps:
+  1. Replicating the exact procedure by August et al. (2022)
+  2. Improving on the number of participants and analyses run
+---
+
+
+```{r warning = FALSE, include=FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r warning = FALSE, echo=FALSE, message = FALSE}
+#Locate the folder where the data is
+setwd("setwd")
+```
+
+```{r warning = FALSE, echo=FALSE, message = FALSE}
+#Check and install necessary packages if not already installed
+if (!requireNamespace("readxl", quietly = TRUE)) {
+  install.packages("readxl")
+}
+if (!requireNamespace("crosstable", quietly = TRUE)) {
+  install.packages("crosstable")
+}
+if (!requireNamespace("dplyr", quietly = TRUE)) {
+  install.packages("dplyr")
+}
+if (!requireNamespace("car", quietly = TRUE)) {
+  install.packages("car")
+}
+if (!requireNamespace("dunn.test", quietly = TRUE)) {
+  install.packages("dunn.test")
+}
+if (!requireNamespace("tidyverse", quietly = TRUE)) {
+  install.packages("tidyverse")
+}
+if (!requireNamespace("irr", quietly = TRUE)) {
+  install.packages("irr")
+}
+
+if (!requireNamespace("lsr", quietly = TRUE)) {
+  install.packages("lsr")
+}
+if (!requireNamespace("effectsize", quietly = TRUE)) {
+  install.packages("effectsize")
+}
+if (!requireNamespace("rstatix", quietly = TRUE)) {
+  install.packages("rstatix")
+}
+
+# Load necessary packages
+library(readxl)
+library(crosstable)
+library(dplyr)
+library(car)
+library(dunn.test)
+library(tidyverse)
+library(irr)
+library(lsr)
+library(effectsize)
+library(rstatix)
+
+```
+ 
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+# Read the xlsx table
+# Use the results.xlsx file from this directory
+data <- read_excel(paste0(getwd(), "/results.xlsx"))
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+# Explore the data
+# Display the first few rows of the dataset to ensure it was read correctly
+
+# Get only data from 001 and 002
+data <- data[data$participant %in% c('001','002'),]
+
+data
+
+head(data)
+str(data)
+summary (data)
+
+by(data$score, data$category, summary)
+by(data$score, data$model_type, summary)
+
+data_labels = read.table (header = TRUE, text = "
+                          name        label
+                          participant 'Participant'
+                          list_number 'List number'
+                          position    'Position'
+                          item        'Item'
+                          category    'Category'
+                          model_type  'Model type'
+                          term_id     'Term ID'
+                          score       'Fluency rating'
+                          ")
+
+# put labels in the data frame
+# make category and model_type factors
+data2 <- data %>% 
+  mutate( across ( c("category", "model_type"), factor) ) %>%
+  import_labels (data_labels, name_from="name", label_from="label") %>%
+  as_tibble
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+##############################
+#
+# Cross table
+#
+
+# Create cross table in flex html form by displaying mean and median values of
+# fluency rating across model_type
+crosstable (data2, 
+            c(score), 
+            funs = c(median, mean), 
+            by = c(model_type),
+            total='both')  %>% as_flextable (keep_id=TRUE)
+
+# Create cross table in flex html form by displaying mean and median values of
+# fluency rating across category
+crosstable (data2, 
+            c(score), 
+            funs = c(median, mean), 
+            by = c(category),
+            total='both')  %>% as_flextable (keep_id=TRUE)
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+########################################
+#
+#  Grouped Bar Chart
+#
+# Libraries
+library (ggplot2) 
+
+# Create a grouped bar chart by counting the responses for fluency rating across model_type
+#
+df <- as.data.frame ( aggregate (data2$score, by = list(data2$model_type, as.factor(data2$score)), FUN = length) )
+colnames (df) <- c("model_type", "score", "num")  # rename var names
+
+df %>% 
+  ggplot ( aes ( fill = model_type, y = num, x = score)) +
+  geom_bar (stat="identity", position="dodge") +
+  xlab ("Fluency rating (1-4)")
+  ylab ("Number of responses")
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+#####################################################
+#Replicating the tests done by August et al. (2022) in 7.1.
+unique(data$model_type)
+  
+  # Recode the levels of the "model_type" variable using dplyr::recode
+  data <- data %>%
+    mutate(model_type = dplyr::recode(model_type,
+                                      "DEXPERT-JOURNAL" = "DEXPERT",
+                                      "DEXPERT-NEWS" = "DEXPERT",
+                                      "GEDI-JOURNAL" = "GEDI",
+                                      "GEDI-NEWS" = "GEDI",
+                                      "SVM-RERANK-JOURNAL" = "SVM-RERANK",
+                                      "SVM-RERANK-NEWS" = "SVM-RERANK"))
+# Convert 'score' column to numeric
+data$score <- as.numeric(data$score)
+
+# Remove rows with missing values in the 'score' or 'model_type' columns
+data <- na.omit(data)
+
+# Perform t-tests comparing each pair of conditions in model_type
+# First, compare "DEXPERT" with "GEDI"
+
+data2 <- data %>% filter (model_type == "DEXPERT" | model_type == "GEDI") %>%
+                            select(model_type, score)
+pairwise_t_test_dexpert_gedi <- rstatix::t_test(score ~ model_type, 
+                                       data = data2, var.equal = TRUE, detailed = TRUE)
+# Second, compare "DEXPERT" with "SVM-RERANK"
+data2 <- data %>% filter (model_type == "DEXPERT" | model_type == "SVM-RERANK") %>%
+                            select(model_type, score)
+pairwise_t_test_dexpert_svm <- rstatix::t_test(score ~ model_type, 
+                                       data = data2, var.equal = TRUE, detailed = TRUE)
+
+# Third, compare "GEDI" with "SVM-RERANK"
+data2 <- data %>% filter (model_type == "GEDI" | model_type == "SVM-RERANK") %>%
+                            select(model_type, score)
+pairwise_t_test_gedi_svm <- rstatix::t_test(score ~ model_type, 
+                                       data = data2, var.equal = TRUE, detailed = TRUE)
+# Apply Bonferroni-Holm correction to p-values
+alpha = .05
+bonferroni.alpha = alpha/3
+
+# Display the corrected p-values
+# If-else statement to determine significance
+
+
+############### DEXPERT vs. GEDI
+# Extract t-value
+t_value <- pairwise_t_test_dexpert_gedi$statistic
+print(paste("t-value:", t_value))
+
+# Extract degrees of freedom
+df <- pairwise_t_test_dexpert_gedi$df
+print(paste("Degrees of freedom:", df))
+
+# Extract 95% confidence interval
+cilow <- pairwise_t_test_dexpert_gedi$conf.low
+cihigh <- pairwise_t_test_dexpert_gedi$conf.high
+print(paste("95% Confidence Interval:", cilow, ", ", cihigh))
+
+pvalue = pairwise_t_test_dexpert_gedi$p
+print(paste("p = ", pvalue))
+if (pvalue < bonferroni.alpha) {
+  print("p is significant with BH correction")
+} else {
+  print("p is not significant with BH correction")
+}
+#Effect size
+effectsize = cohensD(score ~ model_type, data = subset(data, model_type %in% c("DEXPERT", "GEDI")))
+print(paste("Cohen's d:", effectsize))
+
+############## DEXPERT vs SVM RERANK
+t_value <- pairwise_t_test_dexpert_svm$statistic
+print(paste("t-value:", t_value))
+
+# Extract degrees of freedom
+df <- pairwise_t_test_dexpert_svm$df
+print(paste("Degrees of freedom:", df))
+
+# Extract 95% confidence interval
+cilow <- pairwise_t_test_dexpert_svm$conf.low
+cihigh <- pairwise_t_test_dexpert_svm$conf.high
+print(paste("95% Confidence Interval:", cilow, ", ", cihigh))
+
+#Effect size
+effectsize = cohensD(score ~ model_type, data = subset(data, model_type %in% c("DEXPERT", "SVM-RERANK")))
+print(paste("Cohen's d:", effectsize))
+
+pvalue = pairwise_t_test_dexpert_svm$p
+print(paste("p = ", pvalue))
+if (pvalue < bonferroni.alpha) {
+  print("p is significant with BH correction")
+} else {
+  print("p is not significant with BH correction")
+}
+
+############ GEDI vs SVM RERANK
+t_value <- pairwise_t_test_gedi_svm$statistic
+print(paste("t-value:", t_value))
+
+# Extract degrees of freedom
+df <- pairwise_t_test_gedi_svm$df
+print(paste("Degrees of freedom:", df))
+
+# Extract 95% confidence interval
+cilow <- pairwise_t_test_gedi_svm$conf.low
+cihigh <- pairwise_t_test_gedi_svm$conf.high
+print(paste("95% Confidence Interval:", cilow, ", ", cihigh))
+
+#Effect size
+effectsize = cohensD(score ~ model_type, data = subset(data, model_type %in% c("GEDI", "SVM-RERANK")))
+print(paste("Cohen's d:", effectsize))
+
+pvalue = pairwise_t_test_gedi_svm$p
+print(paste("p = ", pvalue))
+if (pvalue < bonferroni.alpha) {
+  print("p is significant with BH correction")
+} else {
+  print("p is not significant with BH correction")
+}
+
+
+# Calculate means and standard deviations for each condition
+means_sd <- data %>%
+  group_by(model_type) %>%
+  summarise(Mean = mean(score), SD = sd(score)) %>%
+  rename(Model = model_type)
+
+# Display means and standard deviations for each condition
+means_sd
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+#Krippendorff alpha
+vars <- select(data, item, participant, score)
+vars <- pivot_wider (vars, id_cols = participant, names_from = item, values_from = score)
+vars <- select (vars, -participant)
+vars <- as.matrix(vars)
+
+kripp.alpha (vars, method = "ordinal")
+```
+
+
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+# Explore the data
+# Display the first few rows of the dataset to ensure it was read correctly
+data <- read_excel(paste0(getwd(), "/results.xlsx"))
+data
+
+head(data)
+str(data)
+summary (data)
+
+by(data$score, data$category, summary)
+by(data$score, data$model_type, summary)
+
+data_labels = read.table (header = TRUE, text = "
+                          name        label
+                          participant 'Participant'
+                          list_number 'List number'
+                          position    'Position'
+                          item        'Item'
+                          category    'Category'
+                          model_type  'Model type'
+                          term_id     'Term ID'
+                          score       'Fluency rating'
+                          ")
+
+# put labels in the data frame
+# make category and model_type factors
+data2 <- data %>% 
+  mutate( across ( c("category", "model_type"), factor) ) %>%
+  import_labels (data_labels, name_from="name", label_from="label") %>%
+  as_tibble
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+##############################
+#
+# Cross table
+#
+
+# Create cross table in flex html form by displaying mean and median values of
+# fluency rating across model_type
+crosstable (data2, 
+            c(score), 
+            funs = c(median, mean), 
+            by = c(model_type),
+            total='both')  %>% as_flextable (keep_id=TRUE)
+
+# Create cross table in flex html form by displaying mean and median values of
+# fluency rating across category
+crosstable (data2, 
+            c(score), 
+            funs = c(median, mean), 
+            by = c(category),
+            total='both')  %>% as_flextable (keep_id=TRUE)
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+########################################
+#
+#  Grouped Bar Chart
+#
+# Libraries
+library (ggplot2) 
+
+# Create a grouped bar chart by counting the responses for fluency rating across model_type
+#
+df <- as.data.frame ( aggregate (data2$score, by = list(data2$model_type, as.factor(data2$score)), FUN = length) )
+colnames (df) <- c("model_type", "score", "num")  # rename var names
+
+df %>% 
+  ggplot ( aes ( fill = model_type, y = num, x = score)) +
+  geom_bar (stat="identity", position="dodge") +
+  xlab ("Fluency rating (1-4)")
+  ylab ("Number of responses")
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+#####################################################
+# Replicating the tests done by August et al. (2022) in 7.1.
+  
+unique(data$model_type)
+  
+  # Recode the levels of the "model_type" variable using dplyr::recode
+  data <- data %>%
+    mutate(model_type = dplyr::recode(model_type,
+                                      "DEXPERT-JOURNAL" = "DEXPERT",
+                                      "DEXPERT-NEWS" = "DEXPERT",
+                                      "GEDI-JOURNAL" = "GEDI",
+                                      "GEDI-NEWS" = "GEDI",
+                                      "SVM-RERANK-JOURNAL" = "SVM-RERANK",
+                                      "SVM-RERANK-NEWS" = "SVM-RERANK"))
+  
+  
+# Convert 'score' column to numeric
+data$score <- as.numeric(data$score)
+
+# Remove rows with missing values in the 'score' or 'model_type' columns
+data <- na.omit(data)
+
+# Perform t-tests comparing each pair of conditions in model_type
+# First, compare "DEXPERT" with "GEDI"
+
+data2 <- data %>% filter (model_type == "DEXPERT" | model_type == "GEDI") %>%
+                            select(model_type, score)
+pairwise_t_test_dexpert_gedi <- rstatix::t_test(score ~ model_type, 
+                                       data = data2, var.equal = TRUE, detailed = TRUE)
+# Second, compare "DEXPERT" with "SVM-RERANK"
+data2 <- data %>% filter (model_type == "DEXPERT" | model_type == "SVM-RERANK") %>%
+                            select(model_type, score)
+pairwise_t_test_dexpert_svm <- rstatix::t_test(score ~ model_type, 
+                                       data = data2, var.equal = TRUE, detailed = TRUE)
+# Third, compare "GEDI" with "SVM-RERANK"
+data2 <- data %>% filter (model_type == "GEDI" | model_type == "SVM-RERANK") %>%
+                            select(model_type, score)
+pairwise_t_test_gedi_svm <- rstatix::t_test(score ~ model_type, 
+                                       data = data2, var.equal = TRUE, detailed = TRUE)
+# Apply Bonferroni-Holm correction to p-values
+alpha = .05
+bonferroni.alpha = alpha/3
+
+# Display the corrected p-values
+# If-else statement to determine significance
+
+
+############### DEXPERT vs. GEDI
+# Extract t-value
+t_value <- pairwise_t_test_dexpert_gedi$statistic
+print(paste("t-value:", t_value))
+
+# Extract degrees of freedom
+df <- pairwise_t_test_dexpert_gedi$df
+print(paste("Degrees of freedom:", df))
+
+# Extract 95% confidence interval
+cilow <- pairwise_t_test_dexpert_gedi$conf.low
+cihigh <- pairwise_t_test_dexpert_gedi$conf.high
+print(paste("95% Confidence Interval:", cilow, ", ", cihigh))
+
+pvalue = pairwise_t_test_dexpert_gedi$p
+print(paste("p = ", pvalue))
+if (pvalue < bonferroni.alpha) {
+  print("p is significant with BH correction")
+} else {
+  print("p is not significant with BH correction")
+}
+#Effect size
+effectsize = cohensD(score ~ model_type, data = subset(data, model_type %in% c("DEXPERT", "GEDI")))
+print(paste("Cohen's d:", effectsize))
+
+############## DEXPERT vs SVM RERANK
+t_value <- pairwise_t_test_dexpert_svm$statistic
+print(paste("t-value:", t_value))
+
+# Extract degrees of freedom
+df <- pairwise_t_test_dexpert_svm$df
+print(paste("Degrees of freedom:", df))
+
+# Extract 95% confidence interval
+cilow <- pairwise_t_test_dexpert_svm$conf.low
+cihigh <- pairwise_t_test_dexpert_svm$conf.high
+print(paste("95% Confidence Interval:", cilow, ", ", cihigh))
+
+#Effect size
+effectsize = cohensD(score ~ model_type, data = subset(data, model_type %in% c("DEXPERT", "SVM-RERANK")))
+print(paste("Cohen's d:", effectsize))
+
+pvalue = pairwise_t_test_dexpert_svm$p
+print(paste("p = ", pvalue))
+if (pvalue < bonferroni.alpha) {
+  print("p is significant with BH correction")
+} else {
+  print("p is not significant with BH correction")
+}
+
+############ GEDI vs SVM RERANK
+t_value <- pairwise_t_test_gedi_svm$statistic
+print(paste("t-value:", t_value))
+
+# Extract degrees of freedom
+df <- pairwise_t_test_gedi_svm$df
+print(paste("Degrees of freedom:", df))
+
+# Extract 95% confidence interval
+cilow <- pairwise_t_test_gedi_svm$conf.low
+cihigh <- pairwise_t_test_gedi_svm$conf.high
+print(paste("95% Confidence Interval:", cilow, ", ", cihigh))
+
+#Effect size
+effectsize = cohensD(score ~ model_type, data = subset(data, model_type %in% c("GEDI", "SVM-RERANK")))
+print(paste("Cohen's d:", effectsize))
+
+pvalue = pairwise_t_test_gedi_svm$p
+print(paste("p = ", pvalue))
+if (pvalue < bonferroni.alpha) {
+  print("p is significant with BH correction")
+} else {
+  print("p is not significant with BH correction")
+}
+
+# Calculate means and standard deviations for each condition
+means_sd <- data %>%
+  group_by(model_type) %>%
+  summarise(Mean = mean(score), SD = sd(score)) %>%
+  rename(Model = model_type)
+
+# Display means and standard deviations for each condition
+means_sd
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+##########################################
+#Improving on the analysis by running a One-Way ANOVA
+
+# Perform one-way ANOVA
+anova_result <- aov(score ~ model_type, data = data)
+
+# Summarize the ANOVA results
+summary(anova_result)
+partial_eta_squared(anova_result)
+
+# Conduct post-hoc Tukey HSD test
+tukey_result <- TukeyHSD(anova_result)
+
+# Display the Tukey HSD test results
+tukey_result
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+#########################################
+# There is a very high likelihood that the data is not normally distributed
+# Running assumption checks and determining the right test to run
+# Checking for normality problems
+# Shapiro-Wilk test for each condition
+shapiro_test <- data %>%
+  group_by(model_type) %>%
+  summarise(p_value = shapiro.test(score)$p.value)
+
+  # Display Shapiro-Wilk test results
+  shapiro_test
+
+  ##### p-values indicate violation of normality
+
+# Perform Levene's test for homogeneity of variances
+levene_test <- leveneTest(score ~ model_type, data = data)
+
+# Display the Levene's test results
+levene_test
+##### p-values indicate violation of homogeneity of variances
+
+#Running U Mann-Whitney for that reason
+  
+# Pairwise Mann-Whitney U tests
+pairwise_mann_whitney <- pairwise.wilcox.test(data$score, data$model_type, p.adjust.method = "holm")
+  
+# Display pairwise Mann-Whitney U test results
+pairwise_mann_whitney
+wilcox_dexpert_gedi = wilcox_effsize(score~model_type, data =  subset(data, model_type %in% c("DEXPERT", "GEDI")))
+print(wilcox_dexpert_gedi)
+
+wilcox_dexpert_gedi = wilcox_effsize(score~model_type, data =  subset(data, model_type %in% c("DEXPERT", "SVM-RERANK")))
+print(wilcox_dexpert_gedi)
+
+wilcox_dexpert_gedi = wilcox_effsize(score~model_type, data =  subset(data, model_type %in% c("GEDI", "SVM-RERANK")))
+print(wilcox_dexpert_gedi)
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+# Kruskal-Wallis test
+kruskal_wallis <- kruskal.test(score ~ model_type, data = data)
+kruskal_effectsize <- kruskal_effsize(data, score ~ model_type, ci = TRUE, conf.level = 0.95, ci.type = "perc")
+print(kruskal_wallis)
+print(kruskal_effectsize)
+  
+# Assuming you have pairwise comparisons and you want to adjust for 3 comparisons
+adjusted_alpha <- 0.05 / 3
+
+# Run Dunn's test with adjusted alpha
+pairwise_dunn <- dunn.test(data$score, data$model_type, method = "holm", alpha = adjusted_alpha)
+### Still says (alpha/2) but considers the alpha/3 in the actual significance
+pairwise_dunn
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+#######################################################
+# mixed effect modelling
+#
+#
+
+library (lme4)
+
+# a simple mixed effects model with fixed effect - model_type and category -
+# and participant as the random effect for the intercept and score
+# as dependent var
+m1 <- lmer (score ~  model_type + category + (1 | participant),
+            data = data)
+
+summary (m1)
+
+# understand individual random effects
+ranef (m1)
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+#Krippendorff alpha
+vars <- select(data, item, participant, score)
+vars <- pivot_wider (vars, id_cols = participant, names_from = item, values_from = score)
+vars <- select (vars, -participant)
+vars <- as.matrix(vars)
+
+kripp.alpha (vars, method = "ordinal")
+```
+
+
