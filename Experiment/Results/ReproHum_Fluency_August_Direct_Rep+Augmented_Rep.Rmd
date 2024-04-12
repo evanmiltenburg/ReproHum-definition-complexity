@@ -19,14 +19,13 @@ The analysis is in two steps:
   2. Improving on the number of participants and analyses run
 ---
 
-
 ```{r warning = FALSE, include=FALSE, message = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r warning = FALSE, echo=FALSE, message = FALSE}
 #Locate the folder where the data is
-setwd("setwd")
+setwd(choose.dir())
 ```
 
 ```{r warning = FALSE, echo=FALSE, message = FALSE}
@@ -76,7 +75,7 @@ library(effectsize)
 library(rstatix)
 
 ```
- 
+
 ```{r warning = FALSE, echo=TRUE, message = FALSE}
 # Read the xlsx table
 # Use the results.xlsx file from this directory
@@ -304,8 +303,6 @@ vars <- as.matrix(vars)
 kripp.alpha (vars, method = "ordinal")
 ```
 
-
-
 ```{r warning = FALSE, echo=TRUE, message = FALSE}
 # Explore the data
 # Display the first few rows of the dataset to ensure it was read correctly
@@ -381,6 +378,22 @@ df %>%
   xlab ("Fluency rating (1-4)")
   ylab ("Number of responses")
 ```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+#####################################################
+# Adding column with domain type
+data$domain <- data$model_type
+data <- data %>%
+    mutate(domain = dplyr::recode(domain,
+                                      "DEXPERT-JOURNAL" = "JOURNAL",
+                                      "DEXPERT-NEWS" = "NEWS",
+                                      "GEDI-JOURNAL" = "JOURNAL",
+                                      "GEDI-NEWS" = "NEWS",
+                                      "SVM-RERANK-JOURNAL" = "JOURNAL",
+                                      "SVM-RERANK-NEWS" = "NEWS"))
+
+```
+
 
 ```{r warning = FALSE, echo=TRUE, message = FALSE}
 #####################################################
@@ -599,14 +612,18 @@ library (lme4)
 # a simple mixed effects model with fixed effect - model_type and category -
 # and participant as the random effect for the intercept and score
 # as dependent var
-m1 <- lmer (score ~  model_type + category + (1 | participant),
+m1 <- lmer (score ~  model_type + category + domain + (1 | participant),
             data = data)
 
 summary (m1)
 
 # understand individual random effects
 ranef (m1)
+
+# determine confidence intervals
+confint(m1, level=0.95)
 ```
+
 
 ```{r warning = FALSE, echo=TRUE, message = FALSE}
 #Krippendorff alpha
@@ -616,6 +633,31 @@ vars <- select (vars, -participant)
 vars <- as.matrix(vars)
 
 kripp.alpha (vars, method = "ordinal")
+```
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+# Double check if our model is significantly different from 
+# models lacking either domain (m2) or category (m3).
+#
+# (We already know this from the confidence intervals.)
+m1 <- lmer (score ~  model_type + category + domain + (1 | participant),
+            data = data)
+
+m2 <- lmer (score ~  model_type + category + (1 | participant),
+            data = data)
+
+anova(m1,m2)
+
+m3 <- lmer (score ~  model_type + domain + (1 | participant),
+            data = data)
+
+anova(m1,m3)
+```
+
+```{r warning = FALSE, echo=TRUE, message = FALSE}
+library(multcomp)
+
+#Compare conditions:
+summary(glht(m1, linfct = mcp(model_type = "Tukey")), test = adjusted("holm"))
 ```
 
 
